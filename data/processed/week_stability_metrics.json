@@ -1,0 +1,52 @@
+{
+  "evaluation_metric": "Week-to-Week Temporal Stability",
+  "observation_window": "October 1 - October 28, 2026 (4 Consecutive Weeks)",
+  "analyzed_routes": 200,
+  "average_pearson_r": 0.9961,
+  "average_r_squared": 0.9922,
+  "stability_assessment": "EXCELLENT (Consistent Weekly Commuting Patterns)",
+  "pairwise_comparisons": [
+    {
+      "pair": "Week 1 (Oct 1-7) vs Week 2 (Oct 8-14)",
+      "pearson_r": 0.9937,
+      "r_squared": 0.9874,
+      "diurnal_similarity_pct": 99.37
+    },
+    {
+      "pair": "Week 1 (Oct 1-7) vs Week 3 (Oct 15-21)",
+      "pearson_r": 0.9928,
+      "r_squared": 0.9856,
+      "diurnal_similarity_pct": 99.28
+    },
+    {
+      "pair": "Week 1 (Oct 1-7) vs Week 4 (Oct 22-28)",
+      "pearson_r": 0.9936,
+      "r_squared": 0.9872,
+      "diurnal_similarity_pct": 99.36
+    },
+    {
+      "pair": "Week 2 (Oct 8-14) vs Week 3 (Oct 15-21)",
+      "pearson_r": 0.9989,
+      "r_squared": 0.9978,
+      "diurnal_similarity_pct": 99.89
+    },
+    {
+      "pair": "Week 2 (Oct 8-14) vs Week 4 (Oct 22-28)",
+      "pearson_r": 0.9993,
+      "r_squared": 0.9986,
+      "diurnal_similarity_pct": 99.93
+    },
+    {
+      "pair": "Week 3 (Oct 15-21) vs Week 4 (Oct 22-28)",
+      "pearson_r": 0.9982,
+      "r_squared": 0.9965,
+      "diurnal_similarity_pct": 99.82
+    }
+  ],
+  "weekly_totals": {
+    "Week 1 (Oct 1-7)": 580982,
+    "Week 2 (Oct 8-14)": 658281,
+    "Week 3 (Oct 15-21)": 563177,
+    "Week 4 (Oct 22-28)": 664305
+  }
+}

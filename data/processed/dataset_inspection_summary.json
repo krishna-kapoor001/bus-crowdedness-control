@@ -1,0 +1,119 @@
+{
+  "file_path": "data\\raw\\October-Delhi.csv",
+  "file_size_bytes": 290014457,
+  "file_size_mb": 276.58,
+  "total_rows": 2559899,
+  "columns": [
+    "passenger_count",
+    "amount",
+    "vehicle_number",
+    "ticket_type_id",
+    "end_stop_name",
+    "route",
+    "start_stop_name",
+    "created_at",
+    "is_ac"
+  ],
+  "missing_values": {
+    "passenger_count": 0,
+    "amount": 0,
+    "vehicle_number": 1242167,
+    "ticket_type_id": 0,
+    "end_stop_name": 0,
+    "route": 0,
+    "start_stop_name": 0,
+    "created_at": 0,
+    "is_ac": 0
+  },
+  "timestamp_min": "2026-10-01 00:00:01.796721+05:30",
+  "timestamp_max": "2026-10-31 23:58:22.450250+05:30",
+  "invalid_timestamps": 2,
+  "unique_routes": 2259,
+  "unique_start_stops": 7148,
+  "unique_end_stops": 6941,
+  "ac_share_pct": 80.44,
+  "top_routes": [
+    {
+      "route": "717AUP",
+      "tickets": 25947
+    },
+    {
+      "route": "717ADOWN",
+      "tickets": 25611
+    },
+    {
+      "route": "511AUP",
+      "tickets": 17506
+    },
+    {
+      "route": "729UP",
+      "tickets": 16656
+    },
+    {
+      "route": "729DOWN",
+      "tickets": 16502
+    },
+    {
+      "route": "511ADOWN",
+      "tickets": 15766
+    },
+    {
+      "route": "623UP",
+      "tickets": 15765
+    },
+    {
+      "route": "623DOWN",
+      "tickets": 15273
+    },
+    {
+      "route": "578UP",
+      "tickets": 15168
+    },
+    {
+      "route": "717BDOWN",
+      "tickets": 15121
+    }
+  ],
+  "top_stops": [
+    {
+      "stop": "Hamdard Nagar / Sangam Vihar",
+      "boardings": 18554
+    },
+    {
+      "stop": "Saket Metro Station",
+      "boardings": 13862
+    },
+    {
+      "stop": "Said Ul Zeb Village",
+      "boardings": 12994
+    },
+    {
+      "stop": "Badarpur Border(T)",
+      "boardings": 12952
+    },
+    {
+      "stop": "Mehrauli Terminal",
+      "boardings": 12610
+    },
+    {
+      "stop": "Mahipal Pur Village",
+      "boardings": 12461
+    },
+    {
+      "stop": "Kapashera Border",
+      "boardings": 11703
+    },
+    {
+      "stop": "Mahipal Pur",
+      "boardings": 11409
+    },
+    {
+      "stop": "Ambedkar Nagar Depot",
+      "boardings": 11317
+    },
+    {
+      "stop": "Dhaula Kuan",
+      "boardings": 11267
+    }
+  ]
+}

@@ -1,0 +1,1620 @@
+bus_stand_name,latitude,longitude,corridor,is_major_hub
+11 Murti,28.610929,77.190796,781: New Delhi Railway Station ↔ Kapashera Border,False
+18 Block Lodhi Colony,28.586932,77.22413,623: Vasant Kunj ↔ Central Secretariat,False
+A 1 Keshav Puram,28.683165,77.154399,894: Okhla Depot ↔ Karampura,False
+A 3 Janak Puri,28.619599,77.07924,764: Nehru Place ↔ Najafgarh,False
+AIIMS Transit Hub,28.568983,77.213433,522: Ambedkar Nagar ↔ Shivaji Stadium,True
+AIR Force Camp,28.563311,76.871773,Delhi Transit Region,False
+AIR Station,28.626345,77.153444,894: Okhla Depot ↔ Karampura,False
+APS Colony,28.574264,77.141731,Airport Expressway Corridor,False
+APS School Dhaula Kuan,28.601557,77.168411,548: Tuglakabad Extension ↔ Moti Nagar,False
+Aakashwani Bhawan,28.620638,77.209784,505: Mehrauli ↔ Shivaji Stadium,False
+Acharya Narendra Dev College Govindpuri,28.538513,77.262907,Outer Ring Road Arterial,False
+Adarsh Nagar,28.715804,77.170788,GT Karnal Highway Corridor,False
+Aditi College,28.794164,77.036731,Delhi Transit Region,False
+Aero City,28.549103,77.1209,Airport Expressway Corridor,False
+Africa Avenue,28.569388,77.191161,548: Tuglakabad Extension ↔ Moti Nagar,False
+Agar Nagar,28.703249,77.044085,Delhi Transit Region,False
+Agarsen Hospital,28.674533,77.134672,894: Okhla Depot ↔ Karampura,False
+Ahinsa Sthal,28.520478,77.18939,717A: Badarpur Border ↔ Kapashera Border,False
+Air Force HQ Subroto Park,28.584039,77.145838,Airport Expressway Corridor,False
+Air Force Officers Flats Dhaula Kuan,28.600932,77.167942,548: Tuglakabad Extension ↔ Moti Nagar,False
+Air Force Station (1),28.511296,77.256552,717A: Badarpur Border ↔ Kapashera Border,False
+Air Force Station (2),28.633795,77.002884,578: Najafgarh ↔ Safdarjung,False
+Ajmeri Gate,28.643164,77.22584,502: Mehrauli ↔ Old Delhi Railway Station,False
+Ajmeri Gate Kamla Market,28.644653,77.223763,781: New Delhi Railway Station ↔ Kapashera Border,False
+Akbar Bhawan,28.58592,77.191121,511A: Badarpur Border ↔ Dhaula Kuan,False
+AkbarRoad,28.610619,77.226147,623: Vasant Kunj ↔ Central Secretariat,False
+Ali Village,28.51608,77.296615,433: Badarpur Border ↔ New Delhi Railway Station,False
+Alipur Gt Road,28.798522,77.133267,GT Karnal Highway Corridor,False
+Alpana Cinema,28.702841,77.193793,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Aman Puri,28.673072,77.059763,Delhi Transit Region,False
+Ambedkar Nagar Terminal,28.514075,77.228304,717A: Badarpur Border ↔ Kapashera Border,True
+Ambedkar Stadium Terminal,28.639665,77.243759,261: Sarai Kale Khan ↔ Nand Nagri,True
+Amir Khusro Park Oberoi Hotel,28.596285,77.240591,419: Ambedkar Nagar ↔ Old Delhi Railway Station,False
+Amrit Vihar,28.7644,77.1838,Delhi Transit Region,False
+Amrohi More,28.574579,77.051249,Delhi Transit Region,False
+Anand Gram,28.688802,77.321814,261: Sarai Kale Khan ↔ Nand Nagri,False
+Anand Gram Ashram,28.688575,77.319226,261: Sarai Kale Khan ↔ Nand Nagri,False
+Anand Parvat Terminal,28.657498,77.183984,729: Kapashera Border ↔ Mori Gate,True
+Anand Vihar ISBT,28.646753,77.318004,Trans-Yamuna East Corridor,True
+Anandlok,28.55838,77.218358,522: Ambedkar Nagar ↔ Shivaji Stadium,False
+Andheria Bagh More,28.509396,77.178815,717A: Badarpur Border ↔ Kapashera Border,False
+Andheria More,28.507959,77.175806,717A: Badarpur Border ↔ Kapashera Border,False
+Andrews Ganj,28.56605,77.230408,894: Okhla Depot ↔ Karampura,False
+Andrews Ganj Shiv Mandir Ansal Plaza,28.565424,77.224694,522: Ambedkar Nagar ↔ Shivaji Stadium,False
+Annpurna Mandir,28.742422,77.246623,Delhi Transit Region,False
+Ansari Health Care,28.561048,77.282391,534: Anand Vihar ISBT ↔ Mehrauli,False
+Anubhav Apartment,28.722223,77.132794,GT Karnal Highway Corridor,False
+Apollo Hospital,28.539579,77.282671,433: Badarpur Border ↔ New Delhi Railway Station,False
+Aps Colony Jharera Gaon,28.579969,77.144835,Airport Expressway Corridor,False
+Aradhana Enclave,28.574535,77.178661,511A: Badarpur Border ↔ Dhaula Kuan,False
+Arjun Nagar,28.656191,77.291397,Trans-Yamuna East Corridor,False
+Arjun Park,28.618285,77.013185,578: Najafgarh ↔ Safdarjung,False
+Arjun Path,28.575073,77.147344,Airport Expressway Corridor,False
+Art Gallery,28.610465,77.233511,Mathura Road Corridor,False
+Ashirwad Apartment,28.634588,77.302134,Trans-Yamuna East Corridor,False
+Ashok Vihar B Block,28.696074,77.170708,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Ashok Vihar Crossing,28.70192,77.165329,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Ashok Vihar I Block,28.685314,77.168934,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Ashok Vihar Water Tank,28.688033,77.174353,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Ashoka Hotel,28.594125,77.196094,781: New Delhi Railway Station ↔ Kapashera Border,False
+Ashram,28.573576,77.257448,427: Mehrauli ↔ Hazrat Nizamuddin,False
+Ashram Chowk,28.571506,77.259098,433: Badarpur Border ↔ New Delhi Railway Station,False
+Ashram Ring Road,28.574893,77.262373,534: Anand Vihar ISBT ↔ Mehrauli,False
+Asian Market,28.516537,77.221314,534: Anand Vihar ISBT ↔ Mehrauli,False
+Aurobindo College,28.532766,77.204789,Aurobindo Marg Corridor,False
+Avantika Crossing,28.698432,77.097073,Delhi Transit Region,False
+Avantika Sec 2,28.702095,77.099095,Delhi Transit Region,False
+Avtar Enclave,28.677402,77.112289,894: Okhla Depot ↔ Karampura,False
+Ayurvigyan Nagar,28.56139,77.222131,522: Ambedkar Nagar ↔ Shivaji Stadium,False
+Azad Market,28.663221,77.207368,729: Kapashera Border ↔ Mori Gate,False
+Azadpur Terminal,28.70833,77.17792,GT Karnal Highway Corridor,True
+B 3 Andh Vidyalaya,28.656487,77.108818,894: Okhla Depot ↔ Karampura,False
+B 4 Keshav Puram,28.687487,77.162371,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+B 5 Rohini Som Bazar,28.713672,77.104985,Delhi Transit Region,False
+B Block East of Kailash,28.562114,77.255522,Ring Road Arterial,False
+B Block Mangol Puri,28.68992,77.096587,Delhi Transit Region,False
+B R Ambedkar College,28.701276,77.288496,261: Sarai Kale Khan ↔ Nand Nagri,False
+B2 Block Ashok Vihar Ph II,28.693196,77.178041,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+B3 Keshav Puram,28.686048,77.162869,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+BBM Cluster Depot,28.704455,77.211089,181: Hazrat Nizamuddin ↔ Jahangirpuri,True
+BDO Office Roshan Pura,28.600706,76.988602,764: Nehru Place ↔ Najafgarh,False
+BE Block Hari Nagar ESI Dispensary,28.627324,77.121626,894: Okhla Depot ↔ Karampura,False
+BSF Camp Chhawla,28.553895,77.006485,Delhi Transit Region,False
+BSF Campus Chhawla,28.547804,77.009205,Delhi Transit Region,False
+Baba Haridass Gitanjali Enclave,28.666483,76.954414,Delhi Transit Region,False
+Baba Haridass Nagar,28.623796,76.970382,578: Najafgarh ↔ Safdarjung,False
+Baba Ramdev Mandir,28.653422,77.109171,894: Okhla Depot ↔ Karampura,False
+Babarpur Extension,28.690996,77.278942,261: Sarai Kale Khan ↔ Nand Nagri,False
+Badarpur Border Terminal,28.493283,77.303366,717A: Badarpur Border ↔ Kapashera Border,True
+Badarpur M B Road Rajiv Gandhi Stadium,28.49949,77.301924,Mathura Road Corridor,False
+Badarpur MB Road,28.499301,77.298929,Mehrauli-Badarpur Corridor,False
+Badarpur Village,28.502004,77.300137,433: Badarpur Border ↔ New Delhi Railway Station,False
+Badli Railway Staion,28.745237,77.13737,GT Karnal Highway Corridor,False
+Badli Telephone Exchange,28.744803,77.132654,GT Karnal Highway Corridor,False
+Badli crossing,28.727727,77.144746,GT Karnal Highway Corridor,False
+Badu Sarai Village,28.529679,76.986506,Delhi Transit Region,False
+Bajit Pur crossing,28.784836,77.024,Delhi Transit Region,False
+Bake Vihar,28.709502,77.027826,Delhi Transit Region,False
+Bakkar Garh crossing,28.592192,76.886108,Delhi Transit Region,False
+BakkarWala Crossing,28.643523,77.016262,578: Najafgarh ↔ Safdarjung,False
+Bala Sahib Gurudwara,28.581972,77.265663,534: Anand Vihar ISBT ↔ Mehrauli,False
+Balaji Enclave,28.767549,76.96464,Delhi Transit Region,False
+Balak Ram Hospital,28.705151,77.223134,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Balco Apartment,28.629826,77.306778,Trans-Yamuna East Corridor,False
+Bali Nagar,28.652151,77.128975,894: Okhla Depot ↔ Karampura,False
+Balmiki Mandir,28.639926,77.204375,729: Kapashera Border ↔ Mori Gate,False
+Balti Factory,28.746699,77.198311,Delhi Transit Region,False
+Bamnoli Crossing,28.539235,77.029973,Delhi Transit Region,False
+Bamnoli More,28.54103,77.02989,Delhi Transit Region,False
+Bamnoli Power Station,28.541933,77.018452,Delhi Transit Region,False
+Banarsi Daas Estate Timarpur,28.697448,77.22053,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Bank,28.525994,77.273593,Mathura Road Corridor,False
+Bank Colony,28.697957,77.311531,261: Sarai Kale Khan ↔ Nand Nagri,False
+Bank Enclave,28.638706,77.269668,Trans-Yamuna East Corridor,False
+Bapa Nagar,28.605759,77.235166,Mathura Road Corridor,False
+Baprola School,28.638382,77.007925,578: Najafgarh ↔ Safdarjung,False
+Baprola Vidhyalaya,28.641844,77.013747,578: Najafgarh ↔ Safdarjung,False
+Baprola Village,28.640878,77.011442,578: Najafgarh ↔ Safdarjung,False
+Bapu Dham,28.599212,77.175144,781: New Delhi Railway Station ↔ Kapashera Border,False
+Bara Bagh,28.701533,77.183218,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Bara Hindu Rao,28.660948,77.204371,729: Kapashera Border ↔ Mori Gate,False
+Barakhamba,28.629616,77.225296,781: New Delhi Railway Station ↔ Kapashera Border,False
+Baroda House,28.615912,77.230182,623: Vasant Kunj ↔ Central Secretariat,False
+Barwala School,28.75922,77.062805,Delhi Transit Region,False
+Barwala Village,28.760398,77.060611,Delhi Transit Region,False
+Basai Darapur Ramesh Nagar,28.652816,77.132389,894: Okhla Depot ↔ Karampura,False
+Base Hospital,28.589481,77.119722,764: Nehru Place ↔ Najafgarh,False
+Batla House,28.563071,77.286295,534: Anand Vihar ISBT ↔ Mehrauli,False
+Batra Hospital,28.512262,77.24348,Mehrauli-Badarpur Corridor,False
+Bawana Depot,28.795523,77.042137,Delhi Transit Region,True
+Bawana Dispensary,28.800888,77.037089,Delhi Transit Region,False
+Bawana School,28.796134,77.035642,Delhi Transit Region,False
+Bawana Village,28.801822,77.039115,Delhi Transit Region,False
+Begumpur (1),28.53696,77.209963,764: Nehru Place ↔ Najafgarh,False
+Begumpur (2),28.721213,77.066018,Delhi Transit Region,False
+Bentax,28.644289,77.147579,548: Tuglakabad Extension ↔ Moti Nagar,False
+Ber Sarai,28.549485,77.180666,764: Nehru Place ↔ Najafgarh,False
+Beriwala Bagh,28.631193,77.112253,578: Najafgarh ↔ Safdarjung,False
+Bhagat Singh Nagar,28.725,77.029244,Delhi Transit Region,False
+Bhagwan Mahavir Hospital,28.687297,77.118091,894: Okhla Depot ↔ Karampura,False
+Bhai Parmanand Colony,28.710293,77.2079,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Bhajan Pura,28.703695,77.263402,261: Sarai Kale Khan ↔ Nand Nagri,False
+Bhalaswa crossing,28.737309,77.166609,GT Karnal Highway Corridor,False
+Bharat Mata School,28.832804,77.076558,Delhi Transit Region,False
+Bharat Nagar (1),28.566916,77.269469,Mathura Road Corridor,False
+Bharat Nagar (2),28.680587,77.180197,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Bharat Nagar Crossing (1),28.561889,77.272492,Mathura Road Corridor,False
+Bharat Nagar Crossing (2),28.680916,77.184664,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Bharthal Chowk,28.554221,77.050567,Delhi Transit Region,False
+Bharthal Under Pass,28.547599,77.057025,729: Kapashera Border ↔ Mori Gate,False
+Bharthal Village,28.543021,77.043727,Delhi Transit Region,False
+Bharti Nagar,28.596728,77.22861,623: Vasant Kunj ↔ Central Secretariat,False
+Bharti Public College,28.622345,77.093843,764: Nehru Place ↔ Najafgarh,False
+Bharti Public School,28.606126,77.333949,Delhi Transit Region,False
+Bhartiya Sadhu Samaj,28.603884,77.184337,781: New Delhi Railway Station ↔ Kapashera Border,False
+Bhartiya Vidya Bhawan,28.621959,77.22581,623: Vasant Kunj ↔ Central Secretariat,False
+Bhavishya Nidhi Enclave,28.542334,77.209605,764: Nehru Place ↔ Najafgarh,False
+Bhikaji Cama Place,28.568018,77.18942,578: Najafgarh ↔ Safdarjung,False
+Bhogal,28.582918,77.251089,419: Ambedkar Nagar ↔ Old Delhi Railway Station,False
+Bihari Pur Gaon,28.713872,77.257466,Delhi Transit Region,False
+Bijwasan Railway Crossing,28.533127,77.055749,729: Kapashera Border ↔ Mori Gate,False
+Blood Bank,28.586924,77.118443,764: Nehru Place ↔ Najafgarh,False
+Bobby Shop,28.623874,77.118702,578: Najafgarh ↔ Safdarjung,False
+Bodhik Sampda Bhawan,28.597954,77.026076,764: Nehru Place ↔ Najafgarh,False
+Brahm Shakti Hospital,28.712029,77.08081,Delhi Transit Region,False
+BrahmPuri Colony,28.652253,77.032538,578: Najafgarh ↔ Safdarjung,False
+Brar Square,28.607398,77.141789,894: Okhla Depot ↔ Karampura,False
+Britannia (1),28.684933,77.149213,894: Okhla Depot ↔ Karampura,False
+Britannia (2),28.680279,77.142255,894: Okhla Depot ↔ Karampura,False
+British High Comission,28.598378,77.191253,781: New Delhi Railway Station ↔ Kapashera Border,False
+Budh Vihar,28.704233,77.087193,Delhi Transit Region,False
+Budha Jayanti Park,28.615764,77.175493,729: Kapashera Border ↔ Mori Gate,False
+Budhela Village,28.635301,77.070616,578: Najafgarh ↔ Safdarjung,False
+Burari Crossing,28.728594,77.199325,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Burari Garhi,28.757849,77.195247,Delhi Transit Region,False
+Burari Transport Authority,28.730567,77.198461,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Burari Transport Authourity,28.732231,77.198022,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Burari Village,28.754047,77.198935,Delhi Transit Region,False
+C 2 B Janakpuri,28.621276,77.088888,764: Nehru Place ↔ Najafgarh,False
+C 2 Janak Puri (1),28.615742,77.081791,764: Nehru Place ↔ Najafgarh,False
+C 2 Janak Puri (2),28.621793,77.084143,764: Nehru Place ↔ Najafgarh,False
+C 2 Keshav Puram,28.687249,77.153984,894: Okhla Depot ↔ Karampura,False
+C 3 Janakpuri,28.615358,77.09247,764: Nehru Place ↔ Najafgarh,False
+C 4 Keshav Puram,28.690389,77.15476,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+C 4 Yamuna Vihar,28.702216,77.278348,261: Sarai Kale Khan ↔ Nand Nagri,False
+C 4H Janakpuri,28.616322,77.095225,764: Nehru Place ↔ Najafgarh,False
+C 8 Keshav Puram,28.689149,77.159476,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+C Block East of Kailash,28.56198,77.258191,Ring Road Arterial,False
+C Block Mangol Puri,28.69245,77.091025,Delhi Transit Region,False
+C Block Vikaspuri,28.633233,77.06886,578: Najafgarh ↔ Safdarjung,False
+C Lal Chowk,28.534494,77.268247,894: Okhla Depot ↔ Karampura,False
+C P J College,28.857678,77.095746,Delhi Transit Region,False
+C R Park Market 2,28.537674,77.252533,511A: Badarpur Border ↔ Dhaula Kuan,False
+C1 Janak Puri,28.61802,77.077027,764: Nehru Place ↔ Najafgarh,False
+C2D Janakpuri,28.614416,77.086984,764: Nehru Place ↔ Najafgarh,False
+C4 Yamuna Vihar Crossing,28.700544,77.283636,261: Sarai Kale Khan ↔ Nand Nagri,False
+C4E Janakpuri,28.616933,77.08818,764: Nehru Place ↔ Najafgarh,False
+C6 B Janakpuri,28.613232,77.098427,764: Nehru Place ↔ Najafgarh,False
+CGHC Dispensary,28.705987,77.221135,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+CGHS Dispensary,28.644857,77.209461,729: Kapashera Border ↔ Mori Gate,False
+CGO Complex (1),28.588025,77.233631,623: Vasant Kunj ↔ Central Secretariat,False
+CGO Complex (2),28.586812,77.240988,419: Ambedkar Nagar ↔ Old Delhi Railway Station,False
+COD Ring Road,28.613083,77.137074,894: Okhla Depot ↔ Karampura,False
+CPRTI,28.637255,77.192643,729: Kapashera Border ↔ Mori Gate,False
+CPWD Colony Vasant Vihar,28.554634,77.164699,623: Vasant Kunj ↔ Central Secretariat,False
+CRPF Camp (1),28.716736,77.257864,Delhi Transit Region,False
+CRPF Camp (2),28.611653,77.339829,Trans-Yamuna East Corridor,False
+CRPF Camp Keshopur,28.646126,77.08441,578: Najafgarh ↔ Safdarjung,False
+CRPF Camp Okhla Phase 1,28.528481,77.270352,Mathura Road Corridor,False
+CRPF Jharoda,28.638564,76.960688,578: Najafgarh ↔ Safdarjung,False
+CRPF Jharoda 1,28.634642,76.963027,578: Najafgarh ↔ Safdarjung,False
+CRRI,28.550093,77.275156,433: Badarpur Border ↔ New Delhi Railway Station,False
+CV Raman ITI (1),28.720908,77.200125,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+CV Raman ITI (2),28.726631,77.204657,GT Karnal Highway Corridor,False
+Campa Cola,28.661899,77.151968,548: Tuglakabad Extension ↔ Moti Nagar,False
+Cargo Express Terminal Gate,28.555505,77.09872,729: Kapashera Border ↔ Mori Gate,False
+Centaur Hotel Nangal Dairy,28.548823,77.104654,729: Kapashera Border ↔ Mori Gate,False
+Centaur Hotel New Custom House,28.552963,77.103501,729: Kapashera Border ↔ Mori Gate,False
+Central School (1),28.562843,77.232834,894: Okhla Depot ↔ Karampura,False
+Central School (2),28.512074,77.231873,717A: Badarpur Border ↔ Kapashera Border,False
+Central School Lodhi Road,28.584884,77.228022,623: Vasant Kunj ↔ Central Secretariat,False
+Central Workshop II,28.516396,77.283525,Mathura Road Corridor,False
+Chanakya Bhawan,28.583492,77.192039,Ring Road Arterial,False
+Chanchal Park,28.646339,77.021607,578: Najafgarh ↔ Safdarjung,False
+Chand Cinema,28.612882,77.312646,Trans-Yamuna East Corridor,False
+Chand Nagar,28.645211,77.099242,578: Najafgarh ↔ Safdarjung,False
+Chandan Market Greater Kailash II,28.531039,77.24573,511A: Badarpur Border ↔ Dhaula Kuan,False
+Chandar Vihar,28.632907,77.299044,Trans-Yamuna East Corridor,False
+Chander Lok,28.688447,77.135324,894: Okhla Depot ↔ Karampura,False
+Chandpur crossing,28.751516,77.014544,Delhi Transit Region,False
+Chauhan Patti,28.754819,77.243315,Delhi Transit Region,True
+Chaukhandi,28.647058,77.095735,578: Najafgarh ↔ Safdarjung,False
+Chawla Stand Najafgarh,28.608407,76.985461,764: Nehru Place ↔ Najafgarh,False
+Check Post,28.739209,77.247457,Delhi Transit Region,False
+Chetan Bihari Mandir Sant Nagar,28.744694,77.198068,Delhi Transit Region,False
+Chhajupur,28.689496,77.286906,261: Sarai Kale Khan ↔ Nand Nagri,False
+Chhatarpur,28.506828,77.174808,717A: Badarpur Border ↔ Kapashera Border,False
+Chhath Park Mangol Puri,28.692531,77.086753,Delhi Transit Region,False
+Chhawani Hospital,28.599246,77.124656,764: Nehru Place ↔ Najafgarh,False
+Chhawla School,28.566331,77.000331,Delhi Transit Region,False
+Chhawla Village,28.565737,77.003369,Delhi Transit Region,False
+Chhawla Village Kangan Heri Road,28.561358,77.002021,Delhi Transit Region,False
+China Norve Embasy,28.600828,77.192514,781: New Delhi Railway Station ↔ Kapashera Border,False
+Chirag Delhi,28.54166,77.23027,534: Anand Vihar ISBT ↔ Mehrauli,False
+Chitra Gupta Road,28.641047,77.208566,502: Mehrauli ↔ Old Delhi Railway Station,False
+Choudhary Mohalla,28.577377,76.865774,Delhi Transit Region,False
+Chowki No 2 Gulabi Bagh Crossing,28.67716,77.188888,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Christian Kabristan,28.730557,77.19015,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Civil Line,28.61666,77.225017,623: Vasant Kunj ↔ Central Secretariat,False
+Claridges Hotel,28.60202,77.217658,502: Mehrauli ↔ Old Delhi Railway Station,False
+Clock Tower,28.677524,77.201628,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Corporation Bank,28.575468,76.866753,Delhi Transit Region,False
+Crown Plaza,28.529447,77.271027,Mathura Road Corridor,False
+Crpf Camp Crown Plaza,28.527875,77.272399,Mathura Road Corridor,False
+D Block Janakpuri,28.610967,77.103679,764: Nehru Place ↔ Najafgarh,False
+D Block Surajmal Vihar,28.660042,77.3081,Trans-Yamuna East Corridor,False
+DA Block Hari Nagar,28.624998,77.106958,578: Najafgarh ↔ Safdarjung,False
+DAV School,28.699865,77.14392,GT Karnal Highway Corridor,False
+DB College,28.539057,77.253645,511A: Badarpur Border ↔ Dhaula Kuan,False
+DB Gupta Market,28.651556,77.194893,729: Kapashera Border ↔ Mori Gate,False
+DCM Chemical,28.665003,77.158986,548: Tuglakabad Extension ↔ Moti Nagar,False
+DDA Booster Pump Station,28.57163,77.052878,Delhi Transit Region,False
+DDA Flats Kalkaji,28.527851,77.257384,511A: Badarpur Border ↔ Dhaula Kuan,False
+DDA Flats Kalkaji Market,28.530245,77.258534,511A: Badarpur Border ↔ Dhaula Kuan,False
+DDA Flats Lado Sarai,28.529933,77.192179,502: Mehrauli ↔ Old Delhi Railway Station,False
+DDA Flats Lucknow Road,28.700871,77.218715,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+DDA Kalkaji Extn,28.52676,77.266837,Mathura Road Corridor,False
+DDA Market Kalkaji,28.531808,77.259029,511A: Badarpur Border ↔ Dhaula Kuan,False
+DDU Hospital,28.628163,77.110996,578: Najafgarh ↔ Safdarjung,False
+DIPSAR College of Pharmacy,28.516003,77.224807,Mehrauli-Badarpur Corridor,False
+DJB,28.815389,77.058031,Delhi Transit Region,False
+DLF More,28.692797,77.327556,261: Sarai Kale Khan ↔ Nand Nagri,False
+DPS Matiyala,28.604592,77.046251,764: Nehru Place ↔ Najafgarh,False
+DPS Police Station Nizamuddin,28.592932,77.24223,419: Ambedkar Nagar ↔ Old Delhi Railway Station,False
+DSIDC Bawana Dhakewala,28.785835,77.041363,Delhi Transit Region,False
+DTC Apartments,28.69761,77.134039,894: Okhla Depot ↔ Karampura,False
+DTC Bus Depot Yamuna Vihar,28.697906,77.271192,261: Sarai Kale Khan ↔ Nand Nagri,True
+Dabri Crossing,28.613715,77.085582,764: Nehru Place ↔ Najafgarh,False
+Dabri Crossing Dwarka Road,28.613273,77.087701,764: Nehru Place ↔ Najafgarh,False
+Daka Village,28.706811,77.204657,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Dallu Pura,28.608686,77.319998,Trans-Yamuna East Corridor,False
+Dariyapur Gaon,28.812688,77.00912,Delhi Transit Region,False
+Dariyapur Kalan School,28.80893,77.014936,Delhi Transit Region,False
+Darya Ganj,28.648,77.240282,Ring Road Arterial,False
+Dashmesh Public School,28.598576,77.311276,Trans-Yamuna East Corridor,False
+Daulat Pur Crossing,28.543578,76.970658,Delhi Transit Region,False
+Daulat Pur Village,28.546782,76.963235,Delhi Transit Region,False
+Dauralla Border,28.507955,76.897048,Delhi Transit Region,False
+Dauralla Village,28.51086,76.895426,Delhi Transit Region,False
+Daya Basti,28.664874,77.175067,548: Tuglakabad Extension ↔ Moti Nagar,False
+Daya Basti Flyover,28.666009,77.171862,548: Tuglakabad Extension ↔ Moti Nagar,False
+Dayal Singh College,28.592373,77.228852,623: Vasant Kunj ↔ Central Secretariat,False
+Deenpur Village,28.593303,76.991906,764: Nehru Place ↔ Najafgarh,False
+Deep Market Ashok Vihar,28.693393,77.173144,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Deep Vihar (1),28.734931,77.087234,Delhi Transit Region,False
+Deep Vihar (2),28.737961,77.082865,Delhi Transit Region,False
+Deepali Chowk,28.69822,77.119097,894: Okhla Depot ↔ Karampura,False
+Defence Colony (1),28.572012,77.227626,623: Vasant Kunj ↔ Central Secretariat,False
+Defence Colony (2),28.573021,77.237332,Ring Road Arterial,False
+Delhi Gate,28.637274,77.24108,Mathura Road Corridor,False
+Delhi Jal Board Lajpat Nagar,28.570701,77.246691,419: Ambedkar Nagar ↔ Old Delhi Railway Station,False
+Delhi Police Training School,28.721463,77.25853,Delhi Transit Region,False
+Delhi Public School,28.598875,77.240846,Mathura Road Corridor,False
+Delhi Sachivalaya,28.637654,77.252706,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Delhi Secretariat,28.628251,77.251342,Ring Road Arterial,False
+Delhi University,28.688255,77.214782,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Delhi Vidhan Sabha,28.687722,77.221554,Ring Road Arterial,False
+Delite Cinema,28.641258,77.234907,502: Mehrauli ↔ Old Delhi Railway Station,False
+Dena Apartment,28.724437,77.129582,GT Karnal Highway Corridor,False
+Dena Apartments,28.794756,77.129489,GT Karnal Highway Corridor,False
+Dera Satguru Sewaram Sahai Sec 24 25,28.729687,77.094836,Delhi Transit Region,False
+Desh Bandhu College,28.541245,77.255811,511A: Badarpur Border ↔ Dhaula Kuan,False
+Desu Colony,28.61105,77.09881,764: Nehru Place ↔ Najafgarh,False
+Desu Colony Janakpuri,28.609924,77.095077,764: Nehru Place ↔ Najafgarh,False
+Desu Office (1),28.734945,77.013889,Delhi Transit Region,False
+Desu Office (2),28.732625,77.028267,Delhi Transit Region,False
+Desu Sub Station,28.723327,77.004609,Delhi Transit Region,False
+Dev Nagar Khalsa College,28.656269,77.18793,729: Kapashera Border ↔ Mori Gate,False
+Devoli Road Crossing,28.518182,77.232583,Mehrauli-Badarpur Corridor,False
+Dewta Wala mandir,28.548805,76.930641,Delhi Transit Region,False
+Dhakka Village,28.708699,77.204469,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Dhansa Border,28.562516,76.842703,Delhi Transit Region,False
+Dhansa Village,28.557733,76.86808,Delhi Transit Region,False
+Dharam Pura,28.671158,77.261639,261: Sarai Kale Khan ↔ Nand Nagri,False
+Dharamshila Hospital,28.602053,77.313844,Trans-Yamuna East Corridor,False
+Dharma Apartment,28.62002,77.290071,Trans-Yamuna East Corridor,False
+Dhaula Kuan,28.590797,77.168346,764: Nehru Place ↔ Najafgarh,True
+Dholi Piao,28.62888,77.075484,764: Nehru Place ↔ Najafgarh,False
+Dhool Siras,28.553031,77.035087,Delhi Transit Region,False
+Dichau Chowk,28.617392,76.984056,578: Najafgarh ↔ Safdarjung,False
+Dichau Kalan Depot,28.629331,76.997946,578: Najafgarh ↔ Safdarjung,True
+Dichau Kalan School,28.642597,76.986417,578: Najafgarh ↔ Safdarjung,False
+Dichau Village,28.639818,76.984065,578: Najafgarh ↔ Safdarjung,False
+Dilshad Garden Depot Cluster,28.685479,77.331199,Trans-Yamuna East Corridor,True
+Dilshad Garden GT Road,28.675979,77.311599,Trans-Yamuna East Corridor,False
+Dilshad Garden School,28.680966,77.313531,261: Sarai Kale Khan ↔ Nand Nagri,False
+Dispensary Paharganj,28.645053,77.213401,781: New Delhi Railway Station ↔ Kapashera Border,False
+District Centre Nazafgarh Road,28.630479,77.079953,764: Nehru Place ↔ Najafgarh,False
+District Centre Outer Ring Road,28.632755,77.081252,578: Najafgarh ↔ Safdarjung,False
+Divya Dham Ashram,28.790466,76.962635,Delhi Transit Region,False
+Don Basco School,28.527899,77.24707,511A: Badarpur Border ↔ Dhaula Kuan,False
+Don Bosco School,28.527931,77.24831,511A: Badarpur Border ↔ Dhaula Kuan,False
+Doulat Ram College,28.688253,77.20649,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Dsidc Bawana,28.803363,77.042701,Delhi Transit Region,False
+Dtc Rajghat Depot,28.641014,77.247173,181: Hazrat Nizamuddin ↔ Jahangirpuri,True
+Durga Vihar,28.59646,76.990323,764: Nehru Place ↔ Najafgarh,False
+Dwarka Flyover,28.58387,77.091482,764: Nehru Place ↔ Najafgarh,False
+Dwarka Mor Bus Stand,28.619407,77.033259,764: Nehru Place ↔ Najafgarh,True
+Dwarka More,28.592954,77.079549,764: Nehru Place ↔ Najafgarh,False
+Dwarka Puri,28.607507,77.078197,764: Nehru Place ↔ Najafgarh,False
+Dwarka Sec 1,28.594408,77.073658,764: Nehru Place ↔ Najafgarh,False
+Dwarka Sec 1 Mahalaxmi Apartment,28.595773,77.071922,764: Nehru Place ↔ Najafgarh,False
+Dwarka Sec 13,28.605647,77.036329,764: Nehru Place ↔ Najafgarh,False
+Dwarka Sec 13 3 crossing,28.602504,77.041026,764: Nehru Place ↔ Najafgarh,False
+Dwarka Sec 16C GGS IP University,28.595116,77.022172,764: Nehru Place ↔ Najafgarh,False
+Dwarka Sec 19 20 Crossing,28.57653,77.057059,Delhi Transit Region,False
+Dwarka Sec 19 Modern School,28.578353,77.054594,Delhi Transit Region,False
+Dwarka Sec 2 6,28.597356,77.065441,764: Nehru Place ↔ Najafgarh,False
+Dwarka Sec 21,28.552807,77.057301,Delhi Transit Region,False
+Dwarka Sec 21 Crossing,28.550932,77.055955,Delhi Transit Region,False
+Dwarka Sec 23 Crossing,28.566622,77.040337,Delhi Transit Region,False
+Dwarka Sec 23 Pochan Pur Village,28.565102,77.049825,Delhi Transit Region,False
+Dwarka Sec 23B Crossing,28.564297,77.039526,Delhi Transit Region,False
+Dwarka Sec 3 4,28.602741,77.043084,764: Nehru Place ↔ Najafgarh,False
+Dwarka Sec 6 7,28.591073,77.069464,764: Nehru Place ↔ Najafgarh,False
+Dwarka Sec 6 Telephone Exchange,28.593156,77.071034,764: Nehru Place ↔ Najafgarh,False
+E 2 Vasant Kunj,28.539117,77.132512,717A: Badarpur Border ↔ Kapashera Border,False
+E Block Greater Kailash II,28.537489,77.240938,Outer Ring Road Arterial,False
+E Block Jahangir Puri Terminal,28.733059,77.172541,GT Karnal Highway Corridor,True
+E Block Mangol Puri,28.695599,77.09545,Delhi Transit Region,False
+ESI Dispensary,28.660487,77.147471,548: Tuglakabad Extension ↔ Moti Nagar,False
+ESI Hospital (1),28.727448,77.125394,GT Karnal Highway Corridor,False
+ESI Hospital (2),28.665999,77.310813,Trans-Yamuna East Corridor,False
+ESI Hospital (3),28.659109,77.12876,894: Okhla Depot ↔ Karampura,False
+East Azad Nagar,28.666173,77.283887,Trans-Yamuna East Corridor,False
+East Guru Angad Nagar,28.641191,77.282726,Trans-Yamuna East Corridor,False
+East Krishna Nagar,28.659818,77.288339,Trans-Yamuna East Corridor,False
+East Park Road,28.650772,77.19735,729: Kapashera Border ↔ Mori Gate,False
+East Patel Nagar,28.642485,77.17358,548: Tuglakabad Extension ↔ Moti Nagar,False
+East Punjabi Bagh,28.671136,77.139292,894: Okhla Depot ↔ Karampura,False
+East Vinod Nagar Depot,28.620715,77.300806,Trans-Yamuna East Corridor,True
+Eastern Court,28.622137,77.219174,502: Mehrauli ↔ Old Delhi Railway Station,False
+Ekta Garden Harijan Basti,28.755916,77.197716,Delhi Transit Region,False
+Engg College Shahbad,28.745076,77.116965,GT Karnal Highway Corridor,False
+Esi Hospital Okhla,28.515311,77.281109,Mathura Road Corridor,False
+Exchange Store Civil line,28.676791,77.224927,Ring Road Arterial,False
+Express Building,28.633791,77.240795,Mathura Road Corridor,False
+F Block Kirti Nagar,28.651393,77.140843,548: Tuglakabad Extension ↔ Moti Nagar,False
+FAI,28.543598,77.180052,764: Nehru Place ↔ Najafgarh,False
+FCI Ghevra,28.692548,76.99396,Delhi Transit Region,False
+Faiz Road,28.649437,77.199728,729: Kapashera Border ↔ Mori Gate,False
+Fateh Nagar,28.631065,77.098805,578: Najafgarh ↔ Safdarjung,False
+Filmistan,28.659299,77.202925,729: Kapashera Border ↔ Mori Gate,False
+Fire Station,28.605148,77.322787,Trans-Yamuna East Corridor,False
+Fire Station Sec 8,28.707001,77.126814,GT Karnal Highway Corridor,False
+Fire Station Tikri Village,28.671042,76.960215,Delhi Transit Region,False
+Firoz Shah Road,28.620755,77.220592,623: Vasant Kunj ↔ Central Secretariat,False
+G Block Hari Nagar,28.627519,77.100342,578: Najafgarh ↔ Safdarjung,False
+G.T.K Depot,28.731104,77.158944,GT Karnal Highway Corridor,True
+GGS University Yamuna Bazar,28.663019,77.236764,Ring Road Arterial,False
+GPO,28.661994,77.234643,261: Sarai Kale Khan ↔ Nand Nagri,False
+GSKV School No 1 B Block,28.624704,77.092233,764: Nehru Place ↔ Najafgarh,False
+GTB Hospital,28.68456,77.311077,261: Sarai Kale Khan ↔ Nand Nagri,False
+GTB Hospital Crossing,28.689792,77.307341,261: Sarai Kale Khan ↔ Nand Nagri,False
+GTB Nagar (Haqiqat Nagar),28.698115,77.206466,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+GTK Bypass,28.738164,77.154329,GT Karnal Highway Corridor,False
+Gagan Cinema,28.695735,77.315378,261: Sarai Kale Khan ↔ Nand Nagri,False
+Gagan Cinema Wazirabad Road,28.697518,77.315849,261: Sarai Kale Khan ↔ Nand Nagri,False
+Gagan Vihar,28.645032,77.29771,Trans-Yamuna East Corridor,False
+Gairison Eng.,28.605277,77.147354,764: Nehru Place ↔ Najafgarh,False
+Gamri Ext Pusta 5,28.695581,77.25496,261: Sarai Kale Khan ↔ Nand Nagri,False
+Gandhi Darshan,28.636711,77.246972,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Gandhi Vihar,28.722392,77.216472,Delhi Transit Region,False
+Gandhi Vihar Crossing,28.721002,77.218435,Delhi Transit Region,False
+Ganesh Nagar,28.620978,77.28519,Trans-Yamuna East Corridor,False
+Ganesh Nagar Check Post,28.634211,77.089331,578: Najafgarh ↔ Safdarjung,False
+Ganpati Mandir,28.603178,77.324608,Trans-Yamuna East Corridor,False
+Garhi Gaon,28.562311,77.251377,Ring Road Arterial,False
+Garhi Maidu,28.699547,77.255494,261: Sarai Kale Khan ↔ Nand Nagri,False
+Gatta Factory Sonia Vihar,28.729806,77.24577,Delhi Transit Region,False
+Gazi Pur DDA Flats,28.62281,77.319887,Trans-Yamuna East Corridor,False
+Gazipur Dairy Farm,28.620877,77.32064,Trans-Yamuna East Corridor,False
+Gazipur Depot,28.641887,77.315806,Trans-Yamuna East Corridor,True
+Gazipur Village,28.632137,77.315912,Trans-Yamuna East Corridor,False
+Geeta Ashram,28.592017,77.121014,764: Nehru Place ↔ Najafgarh,False
+Geeta Colony,28.655113,77.27357,Trans-Yamuna East Corridor,False
+Geeta Colony Block 5,28.653178,77.271374,Trans-Yamuna East Corridor,False
+Geeta Colony Road Crossing,28.650852,77.252131,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Geetanjali Enclave,28.530599,77.199648,Aurobindo Marg Corridor,False
+Ghevra Crossing,28.685732,76.99454,Delhi Transit Region,False
+Ghevra Village,28.696472,76.997913,Delhi Transit Region,False
+Ghuman Hera Crossing,28.527662,76.95097,Delhi Transit Region,False
+Ghuman Hera DTC Depot,28.534128,76.915158,Delhi Transit Region,True
+Ghuman Hera School,28.537055,76.922442,Delhi Transit Region,False
+Ghuman Hera Village,28.532176,76.922369,Delhi Transit Region,False
+Girls School Vivek Vihar,28.669264,77.31871,Trans-Yamuna East Corridor,False
+Goela Dairy Crossing,28.591149,76.99322,764: Nehru Place ↔ Najafgarh,False
+Gokul Puri,28.701882,77.282623,261: Sarai Kale Khan ↔ Nand Nagri,False
+Gol Daak Khana,28.673097,77.20714,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Gole Market (1),28.634698,77.20365,781: New Delhi Railway Station ↔ Kapashera Border,False
+Gole Market (2),28.628902,77.205258,781: New Delhi Railway Station ↔ Kapashera Border,False
+Golf Club,28.593849,77.155998,729: Kapashera Border ↔ Mori Gate,False
+Golf Club Sunder Nagar,28.601384,77.237901,419: Ambedkar Nagar ↔ Old Delhi Railway Station,False
+Goodwill Apartment,28.791023,77.133734,GT Karnal Highway Corridor,False
+Gopal Pur Crossing Jagatpur Crossing,28.719498,77.223329,Delhi Transit Region,False
+Government Model School,28.62869,77.214915,505: Mehrauli ↔ Shivaji Stadium,False
+Government Press,28.634414,77.127621,894: Okhla Depot ↔ Karampura,False
+Government Senior Secondary School,28.631747,77.29795,Trans-Yamuna East Corridor,False
+Govind Puri (1),28.544325,77.264263,894: Okhla Depot ↔ Karampura,False
+Govind Puri (2),28.539344,77.262124,Outer Ring Road Arterial,False
+Govt Model School Ambedkar Park,28.621739,77.294824,Trans-Yamuna East Corridor,False
+Goyla Dairy,28.579816,77.021616,Delhi Transit Region,False
+Goyla Village,28.58775,77.008647,578: Najafgarh ↔ Safdarjung,False
+Green Field School,28.565936,77.194173,Ring Road Arterial,False
+Green Park,28.557437,77.206898,502: Mehrauli ↔ Old Delhi Railway Station,False
+Gujranwala Town,28.69958,77.184748,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Gulab House,28.622145,77.117176,578: Najafgarh ↔ Safdarjung,False
+Gulabi Bagh,28.675049,77.188467,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Gupta Market,28.564868,77.241433,419: Ambedkar Nagar ↔ Old Delhi Railway Station,False
+Gur Mandi,28.68492,77.19609,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Guru Govind Singh College,28.697974,77.151622,GT Karnal Highway Corridor,False
+Guru Govind Singh Crossing,28.653119,77.202344,729: Kapashera Border ↔ Mori Gate,False
+Guru Govind Singh Marg,28.655318,77.198967,729: Kapashera Border ↔ Mori Gate,False
+Guru Govind Singh University,28.665439,77.230203,Ring Road Arterial,False
+Guru Ravi Das Ashram Tughlaqabad Extension,28.519463,77.254424,511A: Badarpur Border ↔ Dhaula Kuan,False
+Gurudwara,28.764976,77.145357,GT Karnal Highway Corridor,False
+Gurudwara Bangla Sahib,28.628282,77.209446,781: New Delhi Railway Station ↔ Kapashera Border,False
+Gurudwara Nanak Pyau,28.69099,77.192569,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Gurudwara Nanak Sar,28.709651,77.241259,261: Sarai Kale Khan ↔ Nand Nagri,False
+Gurudwara Rakab Ganj Road,28.620964,77.207291,623: Vasant Kunj ↔ Central Secretariat,False
+Gurudwara Vikaspuri,28.638626,77.0743,578: Najafgarh ↔ Safdarjung,False
+H 3 Vikas Puri,28.646247,77.079356,578: Najafgarh ↔ Safdarjung,False
+Haidarpur Water Works,28.721393,77.140628,GT Karnal Highway Corridor,False
+Haldiram,28.51935,77.295028,433: Badarpur Border ↔ New Delhi Railway Station,False
+Hamdard Nagar Sangam Vihar,28.511929,77.249691,Mehrauli-Badarpur Corridor,False
+Hans Apartment,28.65841,77.289823,Trans-Yamuna East Corridor,False
+Hanuman Mandir,28.630423,77.214008,502: Mehrauli ↔ Old Delhi Railway Station,False
+Hanuman Mandir Rohini Sec 24,28.722758,77.087578,Delhi Transit Region,False
+Hardev Puri,28.689464,77.295618,261: Sarai Kale Khan ↔ Nand Nagri,False
+Harewali Gaon,28.831028,77.007382,Delhi Transit Region,False
+Harewali crossing,28.818541,77.002925,Delhi Transit Region,False
+Hargovind Enclave,28.64549,77.300319,Trans-Yamuna East Corridor,False
+Hari Nagar Clock Tower,28.62478,77.11065,578: Najafgarh ↔ Safdarjung,False
+Hari Nagar Depot,28.624629,77.101942,578: Najafgarh ↔ Safdarjung,True
+Hari Nagar Mayapuri,28.630624,77.124355,894: Okhla Depot ↔ Karampura,False
+Harijan Basti,28.707378,77.040328,Delhi Transit Region,False
+Harish Chandra Hospital,28.840785,77.101963,GT Karnal Highway Corridor,False
+Harkesh Nagar,28.5438,77.279381,Mathura Road Corridor,False
+Harsh Vihar (1),28.694901,77.134643,894: Okhla Depot ↔ Karampura,False
+Harsh Vihar (2),28.698685,77.321897,261: Sarai Kale Khan ↔ Nand Nagri,False
+Haryana Pottries,28.53823,77.03519,Delhi Transit Region,False
+Haryana Shakti School Kanjhawala,28.713322,77.00317,Delhi Transit Region,False
+Hasanpur Depot,28.635019,77.307667,Trans-Yamuna East Corridor,True
+Hasanpur Village,28.556543,76.936732,Delhi Transit Region,False
+Hassanpur Village,28.636217,77.310334,Trans-Yamuna East Corridor,False
+Hauj Rani,28.52956,77.215817,Mehrauli-Badarpur Corridor,False
+HaujRani MaxHospital,28.52843,77.21203,Mehrauli-Badarpur Corridor,False
+Hauz Khas,28.552986,77.204997,623: Vasant Kunj ↔ Central Secretariat,False
+Health Center,28.614138,76.985126,578: Najafgarh ↔ Safdarjung,False
+Health Centre,28.591898,77.081282,764: Nehru Place ↔ Najafgarh,False
+Hi Land Apartments,28.599508,77.321896,Trans-Yamuna East Corridor,False
+High Court,28.609405,77.238177,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Himalaya Apartment,28.632163,77.304584,Trans-Yamuna East Corridor,False
+Hiran Kudna Crossing,28.684838,77.001121,Delhi Transit Region,False
+Holy Child School,28.650475,77.113773,894: Okhla Depot ↔ Karampura,False
+Holy Family Hospital,28.560826,77.274169,534: Anand Vihar ISBT ↔ Mehrauli,False
+Humayun Road,28.603259,77.227164,623: Vasant Kunj ↔ Central Secretariat,False
+Humayun Road Khan Mkt,28.605864,77.225964,623: Vasant Kunj ↔ Central Secretariat,False
+Hyatt Hotel,28.570186,77.185629,548: Tuglakabad Extension ↔ Moti Nagar,False
+I P College (1),28.681946,77.223566,Ring Road Arterial,False
+I P College (2),28.619608,77.223931,623: Vasant Kunj ↔ Central Secretariat,False
+IA Block Ashok Vihar,28.686019,77.170467,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+IG Stadium,28.632941,77.24711,261: Sarai Kale Khan ↔ Nand Nagri,False
+IGI Airport Terminal 2,28.557178,77.091389,729: Kapashera Border ↔ Mori Gate,True
+IIT Gate (1),28.545937,77.197028,Outer Ring Road Arterial,False
+IIT Gate (2),28.546137,77.202236,764: Nehru Place ↔ Najafgarh,False
+IIT Hostel,28.549871,77.185523,546: Saket Bus Stop ↔ Dhaula Kuan,False
+INA Colony,28.575671,77.209733,Aurobindo Marg Corridor,False
+INMAS,28.703591,77.219894,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+INS Hostel,28.696197,77.211619,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+IOC Dwarka Road,28.544421,77.064757,729: Kapashera Border ↔ Mori Gate,False
+IOL,28.575287,77.116941,729: Kapashera Border ↔ Mori Gate,False
+IP Depot Bus Stop,28.620156,77.248926,Ring Road Arterial,True
+IP Power House ITO Ring Road,28.624357,77.247006,261: Sarai Kale Khan ↔ Nand Nagri,False
+ISBT Kashmere Gate,28.66869,77.23042,Ring Road Arterial,True
+ISBT Sarai Kale Khan,28.589707,77.258389,Ring Road Arterial,True
+ISIC Hospital,28.533989,77.142493,717A: Badarpur Border ↔ Kapashera Border,False
+ISTM,28.552647,77.181038,Outer Ring Road Arterial,False
+ITI Khichiripur,28.612843,77.297589,Trans-Yamuna East Corridor,False
+ITO,28.62777,77.243304,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+ITO Ring Road,28.628046,77.246932,261: Sarai Kale Khan ↔ Nand Nagri,False
+ITPO Gate No. 3,28.615275,77.240437,419: Ambedkar Nagar ↔ Old Delhi Railway Station,False
+Ibrahim Pur More,28.775679,77.179541,GT Karnal Highway Corridor,False
+Ice Factory,28.666513,77.209033,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Inder Enclave (1),28.7011,77.050157,Delhi Transit Region,False
+Inder Enclave (2),28.680753,77.084154,Delhi Transit Region,False
+Inder Puri,28.637435,77.146605,894: Okhla Depot ↔ Karampura,False
+Inder Puri JJ Colony,28.632795,77.148489,894: Okhla Depot ↔ Karampura,False
+Inderlok,28.673513,77.169138,548: Tuglakabad Extension ↔ Moti Nagar,False
+Inderpuri A Block,28.628753,77.15117,894: Okhla Depot ↔ Karampura,False
+Indian Oil Bhawan,28.628609,77.219358,522: Ambedkar Nagar ↔ Shivaji Stadium,False
+Indian Oil Corporation,28.686274,76.986534,Delhi Transit Region,False
+Indian Oil Station,28.57749,77.108739,729: Kapashera Border ↔ Mori Gate,False
+Indra Kalyan Vihar,28.523585,77.275292,Mathura Road Corridor,False
+Indra Service Station,28.608672,76.959387,578: Najafgarh ↔ Safdarjung,False
+Indra Vihar,28.706245,77.212077,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Indraprastha Park,28.601425,77.254636,Ring Road Arterial,False
+Industrial Area Bawana Sec 3,28.780577,77.043923,Delhi Transit Region,False
+Ishpat Bhawan,28.592462,77.236438,419: Ambedkar Nagar ↔ Old Delhi Railway Station,False
+Ishwar Colony,28.794733,77.030039,Delhi Transit Region,False
+Ishwar Nagar,28.56162,77.26633,534: Anand Vihar ISBT ↔ Mehrauli,False
+Issapur School,28.576272,76.867088,Delhi Transit Region,False
+Issapur Village Temple,28.57722,76.863756,Delhi Transit Region,False
+Issapur crossing,28.569937,76.87559,Delhi Transit Region,False
+Ito Agcr Ito,28.629301,77.245747,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+J Block Vikas Puri,28.63955,77.079218,578: Najafgarh ↔ Safdarjung,False
+J L Nehru Stadium,28.583848,77.230048,623: Vasant Kunj ↔ Central Secretariat,False
+J M International School,28.595998,77.06925,764: Nehru Place ↔ Najafgarh,False
+J and K House,28.601289,77.222148,623: Vasant Kunj ↔ Central Secretariat,False
+J and K Pocket Dilshad Garden,28.679211,77.324531,Trans-Yamuna East Corridor,False
+JA Block Ashok Vihar,28.686835,77.172599,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+JG 3 Block Vikaspuri,28.64712,77.0804,578: Najafgarh ↔ Safdarjung,False
+JJ Colony Bawana Road,28.806795,77.047844,Delhi Transit Region,False
+JJ Colony Wazir Pur,28.678895,77.166477,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+JLN Marg,28.641985,77.228366,502: Mehrauli ↔ Old Delhi Railway Station,False
+JLN Stadium Terminal,28.591124,77.233243,623: Vasant Kunj ↔ Central Secretariat,True
+Jaffarpur RTRM Hospital,28.594959,76.91532,Delhi Transit Region,False
+Jag Jivan Ram Hospital,28.735651,77.173262,GT Karnal Highway Corridor,False
+Jagatpuri A Block,28.651709,77.292974,Trans-Yamuna East Corridor,False
+JagatpuriF Block,28.648073,77.295344,Trans-Yamuna East Corridor,False
+Jagjit Nagar,28.686294,77.254505,261: Sarai Kale Khan ↔ Nand Nagri,False
+Jagriti Enclave,28.653,77.308178,Trans-Yamuna East Corridor,False
+Jahangir Puri Outer Ring Road,28.734465,77.17651,GT Karnal Highway Corridor,False
+Jahangirpuri B Block,28.72934,77.166168,GT Karnal Highway Corridor,False
+Jahangirpuri GT Road,28.72568,77.163192,GT Karnal Highway Corridor,False
+Jahangirpuri K Block,28.730411,77.168007,GT Karnal Highway Corridor,False
+Jai Mata Market Tri Nagar Terminal,28.681427,77.15545,894: Okhla Depot ↔ Karampura,True
+Jai Vihar,28.631562,77.000492,578: Najafgarh ↔ Safdarjung,False
+Jain Colony,28.753856,77.072866,Delhi Transit Region,False
+Jain Shukla Mandir,28.811843,77.054038,Delhi Transit Region,False
+Jaipur House,28.609247,77.233189,Mathura Road Corridor,False
+Jaitpur Mor,28.496958,77.302144,717A: Badarpur Border ↔ Kapashera Border,False
+Jal Vihar Terminal,28.578339,77.245818,433: Badarpur Border ↔ New Delhi Railway Station,True
+Jama Masjid,28.6511,77.238126,502: Mehrauli ↔ Old Delhi Railway Station,False
+Jamia Hamdard Library,28.51713,77.25348,511A: Badarpur Border ↔ Dhaula Kuan,False
+Jamiya Millia College,28.560985,77.280085,534: Anand Vihar ISBT ↔ Mehrauli,False
+Janak Cinema,28.611042,77.093051,764: Nehru Place ↔ Najafgarh,False
+Janak Puri B 1 Terminal,28.629813,77.091554,578: Najafgarh ↔ Safdarjung,True
+Janak Puri B 3,28.622899,77.09267,764: Nehru Place ↔ Najafgarh,False
+Janak Setu,28.610589,77.113834,764: Nehru Place ↔ Najafgarh,False
+Janak Vihar,28.631293,77.171158,548: Tuglakabad Extension ↔ Moti Nagar,False
+Janakpuri B 2,28.626296,77.092072,764: Nehru Place ↔ Najafgarh,False
+Janakpuri C-5A,28.615816,77.096792,764: Nehru Place ↔ Najafgarh,False
+Janakpuri D Block,28.607792,77.103844,764: Nehru Place ↔ Najafgarh,False
+Janakpuri District Centre,28.630162,77.078225,578: Najafgarh ↔ Safdarjung,False
+Janakpuri East Nangli Zalib,28.632631,77.085184,578: Najafgarh ↔ Safdarjung,False
+Janki Devi College,28.64162,77.18988,729: Kapashera Border ↔ Mori Gate,False
+Jatt Khor Crossing,28.788091,76.962594,Delhi Transit Region,False
+Jatt Khor Village,28.789389,76.975523,Delhi Transit Region,False
+Jhandewalan,28.646966,77.204001,729: Kapashera Border ↔ Mori Gate,False
+Jhankar Crossing,28.579165,77.024325,Delhi Transit Region,False
+Jharkhandi,28.667953,77.282059,Trans-Yamuna East Corridor,False
+Jharoda Border,28.65872,76.947766,Delhi Transit Region,False
+Jharoda Crossing Nazafgarh Terminal,28.613587,76.979672,578: Najafgarh ↔ Safdarjung,True
+Jharoda Dairy Crossing,28.734714,77.19751,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Jharoda Kalan,28.655106,76.94997,Delhi Transit Region,False
+Jharoda Nala Crossing,28.662268,76.953713,Delhi Transit Region,False
+Jharoda Village,28.650917,76.952886,Delhi Transit Region,False
+Jhatikara Crossing,28.584994,76.995384,764: Nehru Place ↔ Najafgarh,False
+Jhatikra Village,28.52209,76.965923,Delhi Transit Region,False
+Jheel Terminal,28.659154,77.27292,Trans-Yamuna East Corridor,True
+Jhilmil Crossing,28.676405,77.318174,Trans-Yamuna East Corridor,False
+Jhuljhuli Crossing (1),28.531695,76.907094,Delhi Transit Region,False
+Jhuljhuli Crossing (2),28.535374,76.909461,Delhi Transit Region,False
+Jia Sarai,28.54842,77.189104,764: Nehru Place ↔ Najafgarh,False
+Jija Bai Udyogic Sansthan,28.554981,77.213842,522: Ambedkar Nagar ↔ Shivaji Stadium,False
+Jivan park,28.61961,77.073621,764: Nehru Place ↔ Najafgarh,False
+Jonti Crossing,28.746067,76.978334,Delhi Transit Region,False
+Jonti Village,28.753249,76.972148,Delhi Transit Region,False
+Jor Bagh,28.585745,77.216801,502: Mehrauli ↔ Old Delhi Railway Station,False
+Jwala Puri Nangloi Depot,28.681333,77.079012,Delhi Transit Region,True
+Jyoti Colony Durga Puri,28.689348,77.291207,261: Sarai Kale Khan ↔ Nand Nagri,False
+KD Block Ashok Vihar,28.690457,77.176262,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Kabul Line,28.597726,77.128997,764: Nehru Place ↔ Najafgarh,False
+Kailash Colony,28.556074,77.241003,894: Okhla Depot ↔ Karampura,False
+Kair Depot,28.618203,76.930728,Delhi Transit Region,True
+Kair Village,28.623092,76.920583,Delhi Transit Region,False
+Kaka Nagar,28.605767,77.237088,419: Ambedkar Nagar ↔ Old Delhi Railway Station,False
+Kakrola Bridge,28.619826,77.024883,578: Najafgarh ↔ Safdarjung,False
+Kakrola More,28.618947,77.029496,578: Najafgarh ↔ Safdarjung,False
+Kakrola crossing,28.618122,77.031805,764: Nehru Place ↔ Najafgarh,False
+Kalawati Hospital,28.638121,77.210723,502: Mehrauli ↔ Old Delhi Railway Station,False
+Kali Bari Marg,28.631242,77.198649,781: New Delhi Railway Station ↔ Kapashera Border,False
+Kalka Ji Crossing,28.55728,77.269659,433: Badarpur Border ↔ New Delhi Railway Station,False
+Kalkaji B Block,28.543602,77.251502,511A: Badarpur Border ↔ Dhaula Kuan,False
+Kalkaji Depot,28.538073,77.267806,Outer Ring Road Arterial,True
+Kalkaji Mandir,28.551419,77.263867,534: Anand Vihar ISBT ↔ Mehrauli,False
+Kalkaji Temple,28.547925,77.262947,894: Okhla Depot ↔ Karampura,False
+Kalma Nehru College,28.556509,77.215912,522: Ambedkar Nagar ↔ Shivaji Stadium,False
+Kalyan Puri Terminal,28.616875,77.317853,Trans-Yamuna East Corridor,True
+Kalyan Puri crossing,28.614393,77.321291,Trans-Yamuna East Corridor,False
+Kalyan Vas,28.619713,77.30877,Trans-Yamuna East Corridor,False
+Kalyan Vihar Terminal,28.693476,77.199021,181: Hazrat Nizamuddin ↔ Jahangirpuri,True
+Kamal Cinema,28.565189,77.198956,511A: Badarpur Border ↔ Dhaula Kuan,False
+Kamla Nehru College Niti Bag,28.557863,77.217616,522: Ambedkar Nagar ↔ Shivaji Stadium,False
+Kamruddin Nagar,28.674746,77.061128,Delhi Transit Region,False
+Kangan Heri I,28.548348,76.988709,Delhi Transit Region,False
+Kangan Heri II,28.545284,76.987767,Delhi Transit Region,False
+Kangra Niketan,28.635197,77.080531,578: Najafgarh ↔ Safdarjung,False
+Kanhaiya Nagar,28.682439,77.164858,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Kanjhawala Chowk,28.737259,77.0072,Delhi Transit Region,False
+Kanjhawala Depot,28.727447,77.004037,Delhi Transit Region,True
+Kanjhawala Village,28.734113,77.004911,Delhi Transit Region,False
+Kanti Nagar Extension,28.670684,77.28065,Trans-Yamuna East Corridor,False
+Kanya Sarvodya School Shikar Pur,28.523867,76.955671,Delhi Transit Region,False
+Kapashera Border,28.521432,77.081926,Airport Expressway Corridor,False
+Kapashera Crossing,28.531238,77.088038,729: Kapashera Border ↔ Mori Gate,False
+Kapashera Village,28.523469,77.083324,717A: Badarpur Border ↔ Kapashera Border,False
+Kapashera Village Bijwasan Road,28.527648,77.07613,729: Kapashera Border ↔ Mori Gate,False
+Kapil Vihar,28.699456,77.134712,894: Okhla Depot ↔ Karampura,False
+KarKarDooma Court,28.654315,77.299335,Trans-Yamuna East Corridor,False
+Karala Patshala,28.726536,77.053357,Delhi Transit Region,False
+Karala School,28.730788,77.039698,Delhi Transit Region,False
+Karala Village,28.731466,77.036983,Delhi Transit Region,False
+Karala crossing,28.731506,77.032464,Delhi Transit Region,False
+Karampura Terminal,28.660349,77.143945,894: Okhla Depot ↔ Karampura,True
+Karkardooma crossing (1),28.642995,77.297215,Trans-Yamuna East Corridor,False
+Karkardooma crossing (2),28.69291,77.297181,261: Sarai Kale Khan ↔ Nand Nagri,False
+Karol Bagh,28.644058,77.189008,729: Kapashera Border ↔ Mori Gate,False
+Karol Bagh Gurgaon Stand,28.643699,77.196868,729: Kapashera Border ↔ Mori Gate,False
+Karol Bagh Terminal,28.648029,77.200844,729: Kapashera Border ↔ Mori Gate,True
+Kartar Nagar,28.689577,77.254167,261: Sarai Kale Khan ↔ Nand Nagri,False
+Kasturba Gandhi Road Crossing,28.622075,77.223742,623: Vasant Kunj ↔ Central Secretariat,False
+Kasturba Gandhi crossing,28.623377,77.226694,623: Vasant Kunj ↔ Central Secretariat,False
+Kasturi Ram School,28.837289,77.098089,GT Karnal Highway Corridor,False
+Kathuria Public School,28.530773,77.146595,717A: Badarpur Border ↔ Kapashera Border,False
+Katwaria Sarai,28.540427,77.185356,764: Nehru Place ↔ Najafgarh,False
+Kaushal Devi Netraheen Ashram,28.825428,77.069852,Delhi Transit Region,False
+Kaushik Enclave,28.761113,77.188665,Delhi Transit Region,False
+Kaya Maya Hospital,28.507936,77.269292,Mehrauli-Badarpur Corridor,False
+Kendriya Terminal,28.6235,77.2045,505: Mehrauli ↔ Shivaji Stadium,True
+Kerala School,28.615883,77.341112,Trans-Yamuna East Corridor,False
+Keshav Kunj Pochan Pur Crossing,28.556963,77.053111,Delhi Transit Region,False
+Keshav Mahavidhyalaya,28.687035,77.119925,894: Okhla Depot ↔ Karampura,False
+Keshav Nagar Darshan Dham,28.784071,77.180103,Delhi Transit Region,False
+Keshav Nagar Mukti Ashram,28.77919,77.179786,Delhi Transit Region,False
+Keshopur Depot,28.653032,77.087584,578: Najafgarh ↔ Safdarjung,True
+Kewal Park,28.713761,77.180019,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Khajuri Circle,28.704481,77.256938,261: Sarai Kale Khan ↔ Nand Nagri,False
+Khajuri School,28.711387,77.257129,Delhi Transit Region,False
+Khalsa College,28.6948,77.20972,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Khanpur Extension Devli crossing,28.514066,77.233703,Mehrauli-Badarpur Corridor,False
+Khanpur Village,28.513807,77.23479,717A: Badarpur Border ↔ Kapashera Border,False
+KharKhari Jatmal,28.582224,76.957957,578: Najafgarh ↔ Safdarjung,False
+KharKhari Nahar,28.587012,76.959133,578: Najafgarh ↔ Safdarjung,False
+KharKhari Rondh,28.561727,76.941921,Delhi Transit Region,False
+Khayala Colony Terminal,28.652149,77.095829,578: Najafgarh ↔ Safdarjung,True
+Khayala More Subhash Nagar Crossing,28.643085,77.107219,578: Najafgarh ↔ Safdarjung,False
+Khel Gaon,28.550234,77.210386,Aurobindo Marg Corridor,False
+Khel Gaon CWG Village,28.606586,77.274308,534: Anand Vihar ISBT ↔ Mehrauli,False
+Khera More,28.771789,77.143264,GT Karnal Highway Corridor,False
+Khera More Ghuman Hera Crossing,28.611289,76.975545,578: Najafgarh ↔ Safdarjung,False
+Khera Village,28.595927,76.964727,578: Najafgarh ↔ Safdarjung,False
+Khichdipur,28.624456,77.309587,Trans-Yamuna East Corridor,False
+Khirki Village,28.530099,77.218228,Mehrauli-Badarpur Corridor,False
+Khureji Khas,28.646554,77.279072,Trans-Yamuna East Corridor,False
+Khyber Pass,28.690459,77.221273,Ring Road Arterial,False
+Kibri Place,28.604417,77.127252,578: Najafgarh ↔ Safdarjung,False
+Kiran Garden (1),28.620472,77.04758,578: Najafgarh ↔ Safdarjung,False
+Kiran Garden (2),28.620623,77.004738,578: Najafgarh ↔ Safdarjung,False
+Kirari Gaon,28.693742,77.061041,Delhi Transit Region,False
+Kirari Lal Mandir,28.697819,77.05572,Delhi Transit Region,False
+Kirari Nahar,28.698775,77.05356,Delhi Transit Region,False
+Kirari Railway crossing,28.686475,77.06255,Delhi Transit Region,False
+Kirodi Mal College,28.683787,77.207684,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Kirti Nagar,28.654928,77.137593,548: Tuglakabad Extension ↔ Moti Nagar,False
+Kishan Garh,28.514537,77.164288,717A: Badarpur Border ↔ Kapashera Border,False
+Kohat Enclave,28.69711,77.142202,894: Okhla Depot ↔ Karampura,False
+Kondali Old,28.613089,77.322845,Trans-Yamuna East Corridor,False
+Kotla Vihar Phase I,28.651097,77.03023,578: Najafgarh ↔ Safdarjung,False
+Kotla Vihar Phase II,28.648376,77.025379,578: Najafgarh ↔ Safdarjung,False
+Kotla Village,28.613222,77.301517,Trans-Yamuna East Corridor,False
+Kouria Bridge,28.660226,77.234233,502: Mehrauli ↔ Old Delhi Railway Station,False
+Krishan Menon Marg,28.60602,77.210494,505: Mehrauli ↔ Shivaji Stadium,False
+Krishi Bhawan,28.617516,77.213256,505: Mehrauli ↔ Shivaji Stadium,False
+Krishi Bhawan Rail Bhawan,28.614903,77.21227,505: Mehrauli ↔ Shivaji Stadium,False
+Krishi Vihar,28.546938,77.229582,522: Ambedkar Nagar ↔ Shivaji Stadium,False
+Krishna Colony (1),28.746844,77.087713,Delhi Transit Region,False
+Krishna Colony (2),28.743811,77.085494,Delhi Transit Region,False
+Krishna Marg Kardam Puri,28.696793,77.281921,261: Sarai Kale Khan ↔ Nand Nagri,False
+Krishna Nagar A Block,28.661122,77.287804,Trans-Yamuna East Corridor,False
+Krishna Park,28.639167,77.081757,578: Najafgarh ↔ Safdarjung,False
+Krishna Vihar (1),28.706622,77.084163,Delhi Transit Region,False
+Krishna Vihar (2),28.789686,77.028025,Delhi Transit Region,False
+Krishna Vihar (3),28.709594,77.081156,Delhi Transit Region,False
+Kurani More,28.840837,77.090533,GT Karnal Highway Corridor,False
+Kushak Nallah Depot,28.579796,77.225059,623: Vasant Kunj ↔ Central Secretariat,True
+L Block Gurudwara Kalkaji,28.540085,77.258353,Outer Ring Road Arterial,False
+LIG Flats,28.63084,77.119592,894: Okhla Depot ↔ Karampura,False
+LNJP Hospital,28.640127,77.234746,502: Mehrauli ↔ Old Delhi Railway Station,False
+Lado Sarai,28.522518,77.193365,Mehrauli-Badarpur Corridor,False
+Lado Sarai Crossing,28.524157,77.189921,Mehrauli-Badarpur Corridor,False
+Lado Sarai Dhaula Peer,28.522011,77.197947,546: Saket Bus Stop ↔ Dhaula Kuan,False
+Ladpur School,28.739172,76.998388,Delhi Transit Region,False
+Ladpur Village,28.739579,76.997531,Delhi Transit Region,False
+Lady Shri Ram College,28.558808,77.237268,894: Okhla Depot ↔ Karampura,False
+Lajpat Nagar,28.565462,77.245627,Ring Road Arterial,False
+Lajpat Nagar Crossing,28.564199,77.250258,Ring Road Arterial,False
+Lajpat Nagar Ring Road,28.565081,77.242946,419: Ambedkar Nagar ↔ Old Delhi Railway Station,False
+Lajwanti Garden,28.611931,77.109355,764: Nehru Place ↔ Najafgarh,False
+Lal Bahadur Shashtri Hospital,28.617298,77.309681,Trans-Yamuna East Corridor,False
+Lal Kuan,28.502437,77.284553,Mathura Road Corridor,False
+Lalita Park,28.632161,77.271016,Trans-Yamuna East Corridor,False
+Laxmi Nagar Shakarpur Crossing,28.630885,77.277892,Trans-Yamuna East Corridor,False
+Laxmi Narayan Temple,28.632938,77.199696,729: Kapashera Border ↔ Mori Gate,False
+Laxmi Vihar,28.760093,77.191051,Delhi Transit Region,False
+Le Meridian Hotel,28.619311,77.217586,623: Vasant Kunj ↔ Central Secretariat,False
+Libas Pur Gt Road,28.750087,77.15068,GT Karnal Highway Corridor,False
+Liberty Cinema,28.659847,77.188949,729: Kapashera Border ↔ Mori Gate,False
+Lodhi Colony (1),28.58474,77.22448,623: Vasant Kunj ↔ Central Secretariat,False
+Lodhi Colony (2),28.514835,77.224401,534: Anand Vihar ISBT ↔ Mehrauli,False
+Lodhi Estate crossing,28.590728,77.224848,623: Vasant Kunj ↔ Central Secretariat,False
+Lodhi Garden Mousam Bhawan,28.590278,77.220518,502: Mehrauli ↔ Old Delhi Railway Station,False
+Lodhi Hotel,28.591159,77.239676,419: Ambedkar Nagar ↔ Old Delhi Railway Station,False
+Lodhi Road Crossing,28.591704,77.223614,623: Vasant Kunj ↔ Central Secretariat,False
+Loha Mandi,28.640166,77.145558,894: Okhla Depot ↔ Karampura,False
+Lok Vihar (1),28.692794,77.135118,894: Okhla Depot ↔ Karampura,False
+Lok Vihar (2),28.612879,77.135279,894: Okhla Depot ↔ Karampura,False
+Lokesh Cinema Nangloi JJ Colony,28.682155,77.058807,Delhi Transit Region,False
+Lucknow Road,28.695819,77.216186,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Ludlow Castle,28.672389,77.225904,261: Sarai Kale Khan ↔ Nand Nagri,False
+M Block Greater Kailash II,28.534437,77.243824,764: Nehru Place ↔ Najafgarh,False
+M Block Sarojini Nagar,28.578347,77.189883,578: Najafgarh ↔ Safdarjung,False
+M Block Vikaspuri,28.638617,77.077859,578: Najafgarh ↔ Safdarjung,False
+MB Road,28.505612,77.276434,717A: Badarpur Border ↔ Kapashera Border,False
+MCKR Hospital,28.569058,77.235352,Ring Road Arterial,False
+MCKR Hospital Central School,28.564839,77.233494,511A: Badarpur Border ↔ Dhaula Kuan,False
+MIG Flates Loni Road,28.700514,77.295722,261: Sarai Kale Khan ↔ Nand Nagri,False
+MRV School Sec 13 Dwarka,28.60393,77.038873,764: Nehru Place ↔ Najafgarh,False
+MTNL Saraswati Vihar,28.688025,77.114374,894: Okhla Depot ↔ Karampura,False
+MTNL Saraswati Vihar Aayuddh Bhandar,28.688133,77.112173,894: Okhla Depot ↔ Karampura,False
+Maa Anand Mayee Marg,28.506106,77.278336,Mathura Road Corridor,False
+Madan Pur Dabas,28.716247,77.027973,Delhi Transit Region,False
+Madangir,28.52374,77.228677,522: Ambedkar Nagar ↔ Shivaji Stadium,False
+Madanpur Khadar,28.532216,77.296442,433: Badarpur Border ↔ New Delhi Railway Station,False
+Madanpur Khadar Crossing,28.529414,77.288277,433: Badarpur Border ↔ New Delhi Railway Station,False
+Madarsa Welcome Seelam Pur,28.679458,77.273203,261: Sarai Kale Khan ↔ Nand Nagri,False
+Madhu Vihar,28.59984,77.061283,764: Nehru Place ↔ Najafgarh,False
+Madhuban Chowk,28.703132,77.129732,894: Okhla Depot ↔ Karampura,False
+Madhuvan Chowk,28.704781,77.129837,GT Karnal Highway Corridor,False
+Madipur JJ Colony,28.676403,77.118275,894: Okhla Depot ↔ Karampura,False
+Madipur Village,28.675427,77.125694,894: Okhla Depot ↔ Karampura,False
+Maharaj Pur Check Post,28.643076,77.316752,Trans-Yamuna East Corridor,False
+Maharaja Agrassen School,28.835936,77.079339,Delhi Transit Region,False
+Maharana Pratap Chowk,28.587809,77.150456,781: New Delhi Railway Station ↔ Kapashera Border,False
+Maharani Bagh Ashram,28.575708,77.263331,534: Anand Vihar ISBT ↔ Mehrauli,False
+Maharishi Balmiki,28.705102,77.204942,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Mahesh Apartments,28.598257,77.313655,Trans-Yamuna East Corridor,False
+Mahindra Park,28.721654,77.166124,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Mahindra Park Road No 44,28.684031,77.135925,894: Okhla Depot ↔ Karampura,False
+Mahipal Pur Village,28.546634,77.124816,Airport Expressway Corridor,False
+"Mahvir Enclave Part Ii,Iii",28.603412,77.071008,764: Nehru Place ↔ Najafgarh,False
+Maidan Garhi Crossing,28.519631,77.207794,534: Anand Vihar ISBT ↔ Mehrauli,False
+Majeedia Hospital,28.515182,77.252786,511A: Badarpur Border ↔ Dhaula Kuan,False
+Majnu Ka Teela Ring Road,28.697595,77.2273,261: Sarai Kale Khan ↔ Nand Nagri,False
+Major Bhupinder Singh Marg,28.647196,77.084666,578: Najafgarh ↔ Safdarjung,False
+Malik Pur Village,28.55239,76.902807,Delhi Transit Region,False
+Malikpur Crossing,28.552335,76.907596,Delhi Transit Region,False
+Malka Ganj Terminal,28.677501,77.207823,181: Hazrat Nizamuddin ↔ Jahangirpuri,True
+Mall Road,28.693635,77.218522,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Malviya Nagar,28.5354,77.208532,764: Nehru Place ↔ Najafgarh,False
+Mandi House,28.624837,77.232858,433: Badarpur Border ↔ New Delhi Railway Station,False
+Mangla Puri Terminal,28.589839,77.086416,764: Nehru Place ↔ Najafgarh,True
+Mangol Pur Khurd,28.700107,77.094274,Delhi Transit Region,False
+Mangol Puri J Block,28.698046,77.083619,Delhi Transit Region,False
+Mangol Puri Y Block,28.702856,77.089486,Delhi Transit Region,False
+Mangolpur Kalan Village,28.695644,77.101206,Delhi Transit Region,False
+Mangolpuri K Block,28.694697,77.081992,Delhi Transit Region,False
+Mangolpuri S Block,28.692621,77.082205,Delhi Transit Region,False
+Mangolpuri School,28.694935,77.106462,Delhi Transit Region,False
+Manohar Nagar,28.642405,77.083243,578: Najafgarh ↔ Safdarjung,False
+Mansarovar Park,28.675499,77.300871,261: Sarai Kale Khan ↔ Nand Nagri,False
+Marina,28.636803,77.218364,502: Mehrauli ↔ Old Delhi Railway Station,False
+Maruti,28.522108,77.293553,433: Badarpur Border ↔ New Delhi Railway Station,False
+Masjid Moth,28.540869,77.236039,427: Mehrauli ↔ Hazrat Nizamuddin,False
+Masood Pur Dairy,28.528419,77.149723,717A: Badarpur Border ↔ Kapashera Border,False
+Masood Pur Village,28.525413,77.154464,717A: Badarpur Border ↔ Kapashera Border,False
+Mata Chandan Devi Hospital,28.618832,77.078747,764: Nehru Place ↔ Najafgarh,False
+Mata DanKaur Public School,28.597664,76.898985,Delhi Transit Region,False
+Mata Mandir New Friends Colony,28.56428,77.264469,433: Badarpur Border ↔ New Delhi Railway Station,False
+Matiyala crossing,28.605031,77.051881,764: Nehru Place ↔ Najafgarh,False
+Mauj Pur,28.690315,77.279284,261: Sarai Kale Khan ↔ Nand Nagri,False
+Maurice Nagar II,28.686548,77.205702,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Max Mueller Bhawan,28.624686,77.224359,522: Ambedkar Nagar ↔ Shivaji Stadium,False
+Max Mueller Marg,28.595476,77.22348,623: Vasant Kunj ↔ Central Secretariat,False
+Max Muller Bhawan,28.62321,77.225125,522: Ambedkar Nagar ↔ Shivaji Stadium,False
+Maya Enclave,28.6168,77.109956,578: Najafgarh ↔ Safdarjung,False
+Maya Enclave BSES Office,28.620414,77.110872,578: Najafgarh ↔ Safdarjung,False
+Maya Puri Crossing Ring Road,28.63848,77.129584,894: Okhla Depot ↔ Karampura,False
+Mayapuri Depot,28.630588,77.129781,894: Okhla Depot ↔ Karampura,True
+Mayur Vihar Ph III,28.614073,77.337306,Trans-Yamuna East Corridor,True
+Mayur Vihar Phase 1,28.613218,77.295523,Trans-Yamuna East Corridor,False
+Mayur Vihar Phase 3 Crossing,28.601648,77.327402,Trans-Yamuna East Corridor,False
+Mayur Vihar Phase II,28.620125,77.305427,Trans-Yamuna East Corridor,False
+Mayur Vihar Phase III A1 Block,28.608622,77.337228,Delhi Transit Region,False
+Mayur Vihar Phase III Terminal Paper Market,28.617701,77.340331,Trans-Yamuna East Corridor,True
+Mayur vihar Phase III Crossing,28.601698,77.325953,Trans-Yamuna East Corridor,False
+Meenakshi Garden,28.640172,77.104114,578: Najafgarh ↔ Safdarjung,False
+Meera Bagh,28.658868,77.091155,578: Najafgarh ↔ Safdarjung,False
+Meet Nagar,28.700056,77.296941,261: Sarai Kale Khan ↔ Nand Nagri,False
+Meghdoot Bhawan,28.643825,77.201054,729: Kapashera Border ↔ Mori Gate,False
+Mehrauli Terminal,28.522469,77.182353,Aurobindo Marg Corridor,True
+Metal Forging,28.628984,77.122903,894: Okhla Depot ↔ Karampura,False
+Metcalfe House,28.680798,77.227678,Ring Road Arterial,False
+Millenium Cluster Depot,28.607328,77.252709,Ring Road Arterial,True
+Mitraon Extension,28.608225,76.951662,578: Najafgarh ↔ Safdarjung,False
+Mitraon School,28.606977,76.939329,Delhi Transit Region,False
+Mitraon Village,28.608201,76.94603,578: Najafgarh ↔ Safdarjung,False
+Model Basti,28.657283,77.20365,729: Kapashera Border ↔ Mori Gate,False
+Model Town II,28.704123,77.190594,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Model Town III,28.705987,77.185225,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Modern School,28.627831,77.228521,433: Badarpur Border ↔ New Delhi Railway Station,False
+Modern School Vasant Vihar F Block,28.560049,77.157263,623: Vasant Kunj ↔ Central Secretariat,False
+Mohammadpur Village,28.564911,77.189045,578: Najafgarh ↔ Safdarjung,False
+Mohan Garden,28.620233,77.040448,764: Nehru Place ↔ Najafgarh,False
+Mohan Singh Market,28.566637,77.176361,764: Nehru Place ↔ Najafgarh,False
+More Lines,28.58314,77.11656,729: Kapashera Border ↔ Mori Gate,False
+Mori Gate Terminal,28.668361,77.225176,Ring Road Arterial,True
+Mother Dairy,28.619535,77.28589,Trans-Yamuna East Corridor,False
+Mother Dairy Crossing,28.618997,77.287873,Trans-Yamuna East Corridor,False
+Moti Bagh 1,28.579997,77.178602,Airport Expressway Corridor,False
+Moti Bagh gurudwara Nanakpura,28.584889,77.172128,578: Najafgarh ↔ Safdarjung,False
+Moti Nagar,28.658869,77.144411,548: Tuglakabad Extension ↔ Moti Nagar,False
+Moti Nagar Industrial Area,28.657416,77.148671,548: Tuglakabad Extension ↔ Moti Nagar,False
+Moti Nagar Market,28.657082,77.140995,548: Tuglakabad Extension ↔ Moti Nagar,False
+Mubarakpur Dabas,28.711111,77.038057,Delhi Transit Region,False
+Mubarakpur School,28.712033,77.034042,Delhi Transit Region,False
+Mubarakpur crossing,28.712701,77.027897,Delhi Transit Region,False
+Mukarba Chowk,28.734888,77.155443,GT Karnal Highway Corridor,False
+Mukharji Nagar Tank,28.710367,77.211148,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Mukharji Nagar crossing,28.709138,77.213778,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Mukraba Chowk,28.732297,77.15198,GT Karnal Highway Corridor,False
+Mukundpur,28.725056,77.182619,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Mukundpur Chowk,28.73223,77.183526,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Multan Nagar,28.678061,77.105643,894: Okhla Depot ↔ Karampura,False
+Multi Gym,28.601403,77.32502,Trans-Yamuna East Corridor,False
+Mundhela Crossing,28.5975,76.895431,Delhi Transit Region,False
+Mundhela Kalan School,28.605271,76.893714,Delhi Transit Region,False
+Mundhela Kalan Village,28.609695,76.893566,Delhi Transit Region,False
+Mundhela Khurd School,28.616075,76.896551,Delhi Transit Region,False
+Mundhela Khurd Village,28.617204,76.893107,Delhi Transit Region,False
+Mundhela School II,28.614098,76.895764,Delhi Transit Region,False
+Mundka School,28.682913,77.024204,Delhi Transit Region,False
+Mundka Village,28.682467,77.030574,Delhi Transit Region,False
+Mundka crossing,28.682398,77.035825,Delhi Transit Region,False
+Munim Ji Ka Bagh,28.836176,77.092172,GT Karnal Highway Corridor,False
+Munirka DDA Flats,28.555437,77.176561,546: Saket Bus Stop ↔ Dhaula Kuan,False
+Munirka Family Planning (1),28.556824,77.174392,546: Saket Bus Stop ↔ Dhaula Kuan,False
+Munirka Family Planning (2),28.55372,77.179006,764: Nehru Place ↔ Najafgarh,False
+Munirka Village,28.557914,77.172096,546: Saket Bus Stop ↔ Dhaula Kuan,True
+N.P.L Colony,28.637549,77.174532,548: Tuglakabad Extension ↔ Moti Nagar,False
+NASC Dasghara,28.625509,77.162225,548: Tuglakabad Extension ↔ Moti Nagar,False
+NCERT,28.537822,77.193003,Aurobindo Marg Corridor,False
+NDPO,28.623437,77.206507,781: New Delhi Railway Station ↔ Kapashera Border,False
+NHAI Building Dwarka Sec 10,28.578393,77.059057,Delhi Transit Region,False
+NHW 24 crossing,28.626679,77.316545,Trans-Yamuna East Corridor,False
+NHW 8,28.569297,77.13264,729: Kapashera Border ↔ Mori Gate,False
+NSIC,28.555549,77.265154,427: Mehrauli ↔ Hazrat Nizamuddin,False
+NSIT,28.608288,77.035032,764: Nehru Place ↔ Najafgarh,False
+NTPC,28.506971,77.300411,433: Badarpur Border ↔ New Delhi Railway Station,False
+Nai Basti,28.561524,77.294582,Mathura Road Corridor,False
+NajafGarh Delhi Gate,28.614452,76.988001,578: Najafgarh ↔ Safdarjung,False
+Najafgarh Dhansa Stand,28.611501,76.977817,764: Nehru Place ↔ Najafgarh,False
+Najafgarh Terminal,28.6125,76.9865,764: Nehru Place ↔ Najafgarh,True
+Nanak Heri School,28.52398,76.986489,Delhi Transit Region,False
+Nanak Heri Village,28.520908,76.986113,Delhi Transit Region,False
+Nanak Piyau,28.609342,76.967472,578: Najafgarh ↔ Safdarjung,False
+Nand Nagari E Block,28.693612,77.313822,261: Sarai Kale Khan ↔ Nand Nagri,False
+Nand Nagari Terminal,28.691519,77.310452,261: Sarai Kale Khan ↔ Nand Nagri,True
+Nand Nagri Depot,28.697809,77.305701,261: Sarai Kale Khan ↔ Nand Nagri,True
+Nangal Raya DDA Market,28.609477,77.10655,764: Nehru Place ↔ Najafgarh,False
+Nangli Dairy,28.619981,77.018109,578: Najafgarh ↔ Safdarjung,False
+Nangli Sakrawati,28.614703,77.003495,578: Najafgarh ↔ Safdarjung,False
+Nangli Sakrawati Crossing,28.616139,77.007076,578: Najafgarh ↔ Safdarjung,False
+Nangloi,28.682376,77.064728,Delhi Transit Region,False
+Nangloi Post Office,28.679759,77.065975,Delhi Transit Region,False
+Narain DharamKanta,28.670739,77.057794,Delhi Transit Region,False
+Naraina Depot,28.648745,77.151268,548: Tuglakabad Extension ↔ Moti Nagar,True
+Naraina Vihar Indra Market,28.627236,77.134195,894: Okhla Depot ↔ Karampura,False
+Naraina Village,28.618548,77.13638,894: Okhla Depot ↔ Karampura,False
+Narela,28.852818,77.09161,Delhi Transit Region,True
+Narmada Apartment,28.526935,77.251917,511A: Badarpur Border ↔ Dhaula Kuan,False
+Narouji Nagar,28.569569,77.195525,578: Najafgarh ↔ Safdarjung,False
+Nathu Colony,28.689515,77.301277,261: Sarai Kale Khan ↔ Nand Nagri,False
+National Archives,28.61455,77.218443,522: Ambedkar Nagar ↔ Shivaji Stadium,False
+National Highway 24 Crossing,28.627179,77.318156,Trans-Yamuna East Corridor,False
+National Law University Delhi,28.598451,77.023081,764: Nehru Place ↔ Najafgarh,False
+National Muesum,28.611317,77.218301,502: Mehrauli ↔ Old Delhi Railway Station,False
+National Stadium (1),28.610591,77.240183,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+National Stadium (2),28.613612,77.234778,Mathura Road Corridor,False
+Natthupura Crossing Terminal,28.76889,77.180795,GT Karnal Highway Corridor,True
+Navin Palace,28.6278,76.967339,578: Najafgarh ↔ Safdarjung,False
+Nawada Gaon,28.620154,77.044215,764: Nehru Place ↔ Najafgarh,False
+Nazafgarh Terminal,28.614507,76.977985,578: Najafgarh ↔ Safdarjung,True
+Neethi Apartment,28.631245,77.301871,Trans-Yamuna East Corridor,False
+Nehru Bus Stand Goyla Dairy,28.580391,77.019284,Delhi Transit Region,True
+Nehru Nagar,28.568304,77.253886,Ring Road Arterial,False
+Nehru Place Apartments,28.544188,77.246038,534: Anand Vihar ISBT ↔ Mehrauli,False
+Nehru Place Crossing Paras Cinema,28.545281,77.250721,511A: Badarpur Border ↔ Dhaula Kuan,False
+Nehru Place Terminal,28.5481,77.2552,511A: Badarpur Border ↔ Dhaula Kuan,True
+Nehru Vihar,28.711531,77.222406,Delhi Transit Region,False
+Nehru Vihar crossing,28.708892,77.225953,Delhi Transit Region,False
+New Anaj Mandi (1),28.61912,76.974106,578: Najafgarh ↔ Safdarjung,False
+New Anaj Mandi (2),28.838349,77.09147,GT Karnal Highway Corridor,False
+New Anaj Mandi crossing,28.84268,77.088693,GT Karnal Highway Corridor,False
+New Delhi Railway Station,28.642,77.221,433: Badarpur Border ↔ New Delhi Railway Station,True
+New Delhi Railway Station Gate 2,28.642999,77.224021,781: New Delhi Railway Station ↔ Kapashera Border,False
+New Dwarka Road Seetapuri,28.609658,77.080959,764: Nehru Place ↔ Najafgarh,False
+New Friends Colony,28.566674,77.262552,433: Badarpur Border ↔ New Delhi Railway Station,False
+New Kondali A1 Crossing,28.602966,77.329294,Trans-Yamuna East Corridor,False
+New Moti Bagh B Block,28.663629,77.14054,894: Okhla Depot ↔ Karampura,False
+New Police Line,28.699233,77.203243,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+New Rajdhani Enclave,28.642282,77.296287,Trans-Yamuna East Corridor,False
+New Rajender Nagar,28.636747,77.183121,548: Tuglakabad Extension ↔ Moti Nagar,False
+New Sabzi Mandi,28.714283,77.172314,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+New Usman Pur Pusta No 1,28.680283,77.256066,261: Sarai Kale Khan ↔ Nand Nagri,False
+Nilothi Crossing,28.664743,77.053067,Delhi Transit Region,False
+Nimri Colony,28.681076,77.17579,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Nirankari Colony,28.714839,77.204018,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Nirankari Sarovar Burari crossing,28.727409,77.197837,GT Karnal Highway Corridor,False
+Nirmal Hospital,28.73854,77.004432,Delhi Transit Region,False
+Nirmal Vihar,28.625369,76.992516,578: Najafgarh ↔ Safdarjung,False
+Nirman Bhawan,28.610428,77.215858,502: Mehrauli ↔ Old Delhi Railway Station,False
+Nirman Vihar,28.636843,77.28738,Trans-Yamuna East Corridor,False
+Nizamuddin Railway Station,28.588,77.251,Mathura Road Corridor,True
+Nizamuddin Road Bridge (1),28.597966,77.256996,433: Badarpur Border ↔ New Delhi Railway Station,False
+Nizamuddin Road Bridge (2),28.603872,77.253581,Ring Road Arterial,False
+North Paint Nursing Home,28.542733,77.217603,764: Nehru Place ↔ Najafgarh,False
+North Point,28.542785,77.218502,764: Nehru Place ↔ Najafgarh,False
+Novelty Cinema,28.661382,77.22109,729: Kapashera Border ↔ Mori Gate,False
+OS Communications,28.542756,77.241445,534: Anand Vihar ISBT ↔ Mehrauli,False
+Okhla Depot Iv Cws Ii,28.518328,77.284814,Mathura Road Corridor,True
+Okhla Extension,28.546639,77.306963,Mathura Road Corridor,False
+Okhla Industrial Area,28.533318,77.268761,894: Okhla Depot ↔ Karampura,False
+Okhla Ph I,28.520471,77.277483,Mathura Road Corridor,False
+Okhla Tank,28.548091,77.276655,Mathura Road Corridor,False
+Okhla Village,28.563217,77.291298,Mathura Road Corridor,True
+Old Anaj Mandi,28.845693,77.088804,GT Karnal Highway Corridor,False
+Old Delhi Railway Station,28.657,77.228,419: Ambedkar Nagar ↔ Old Delhi Railway Station,True
+Old Secretariat,28.68374,77.222232,Ring Road Arterial,False
+Om Vihar,28.620983,77.051886,578: Najafgarh ↔ Safdarjung,False
+Onida Factory,28.513274,77.29778,433: Badarpur Border ↔ New Delhi Railway Station,False
+Ordinance Depot,28.676763,77.114877,894: Okhla Depot ↔ Karampura,True
+Osho Dhyan Mandir Jhatikra Road,28.554122,76.973061,Delhi Transit Region,False
+Outer Ring Road Makbara Chowk,28.737048,77.160099,GT Karnal Highway Corridor,False
+Oxford School,28.638048,77.072027,578: Najafgarh ↔ Safdarjung,False
+P S Narela,28.853368,77.088555,Delhi Transit Region,False
+P S Nizamuddin,28.587068,77.247615,Mathura Road Corridor,False
+P S Pandav Nagar,28.614106,77.291697,Trans-Yamuna East Corridor,False
+P.S. Pahar Gunj,28.644131,77.214085,781: New Delhi Railway Station ↔ Kapashera Border,False
+P.Vihar Power Houe,28.668102,77.092888,894: Okhla Depot ↔ Karampura,False
+PG DAV College Sri Niwaspuri,28.567422,77.252734,419: Ambedkar Nagar ↔ Old Delhi Railway Station,False
+PNB Geetanjali,28.529292,77.201409,546: Saket Bus Stop ↔ Dhaula Kuan,False
+PS Bawana,28.806597,77.02306,Delhi Transit Region,False
+PS Chankya Puri,28.603641,77.196602,781: New Delhi Railway Station ↔ Kapashera Border,False
+PS Kirti Nagar,28.646631,77.140861,548: Tuglakabad Extension ↔ Moti Nagar,False
+PS Mandir Marg,28.638721,77.203506,729: Kapashera Border ↔ Mori Gate,False
+PS Mangol Puri,28.696649,77.091975,Delhi Transit Region,False
+PS Mayapuri,28.62527,77.119896,894: Okhla Depot ↔ Karampura,False
+PS Najafgarh,28.609494,76.983042,764: Nehru Place ↔ Najafgarh,False
+PS Parliament Jantar Mantar,28.625655,77.214365,505: Mehrauli ↔ Shivaji Stadium,False
+PS Ranhola,28.653529,77.03545,578: Najafgarh ↔ Safdarjung,False
+PS Tuglak Road,28.599933,77.211331,522: Ambedkar Nagar ↔ Shivaji Stadium,False
+PS Vikas Puri,28.631334,77.06867,578: Najafgarh ↔ Safdarjung,False
+PS Vivek Vihar,28.666623,77.307018,Trans-Yamuna East Corridor,False
+PSRI,28.531369,77.224026,548: Tuglakabad Extension ↔ Moti Nagar,False
+PT College Kotla,28.56989,77.226498,623: Vasant Kunj ↔ Central Secretariat,False
+PTS,28.531188,77.19671,Aurobindo Marg Corridor,False
+PTS Jharoda Kalan,28.642886,76.958132,578: Najafgarh ↔ Safdarjung,False
+PVC Market Sarvodya Kanya Vidhyalaya,28.687929,76.965531,Delhi Transit Region,False
+PWD Office,28.604508,77.26957,534: Anand Vihar ISBT ↔ Mehrauli,False
+PWD Office Aruna Nagar Ring Road,28.702649,77.22755,261: Sarai Kale Khan ↔ Nand Nagri,False
+Padmini Enclave,28.549856,77.203795,623: Vasant Kunj ↔ Central Secretariat,False
+Pal Colony,28.723511,77.103614,Delhi Transit Region,False
+Palam Airport Bypass,28.569447,77.123523,729: Kapashera Border ↔ Mori Gate,False
+Palam Colony,28.58139,77.095886,764: Nehru Place ↔ Najafgarh,False
+Palam Gaon,28.587187,77.086412,764: Nehru Place ↔ Najafgarh,False
+Palam More,28.56811,77.129921,729: Kapashera Border ↔ Mori Gate,False
+Palika Kendra,28.628643,77.216656,502: Mehrauli ↔ Old Delhi Railway Station,False
+Palika Kutumb,28.607632,77.188908,781: New Delhi Railway Station ↔ Kapashera Border,False
+Panchayat Ghar,28.797866,77.031661,Delhi Transit Region,False
+Panchkuian Road,28.640217,77.206781,729: Kapashera Border ↔ Mori Gate,False
+Panchkuian Road Banwai Lal Hospital,28.641618,77.204633,729: Kapashera Border ↔ Mori Gate,False
+Panchsheel Club,28.544483,77.208732,427: Mehrauli ↔ Hazrat Nizamuddin,False
+Panchsheel Enclave,28.543239,77.213555,Outer Ring Road Arterial,False
+Pandav Nagar,28.650075,77.153477,548: Tuglakabad Extension ↔ Moti Nagar,False
+Pandit Park Geeta Colony,28.654933,77.276596,Trans-Yamuna East Corridor,False
+Pandwala Crossing (1),28.55809,76.973951,Delhi Transit Region,False
+Pandwala Crossing (2),28.573956,76.952341,Delhi Transit Region,False
+Pandwala Khurd,28.562267,76.967231,Delhi Transit Region,False
+Pandwala Village,28.565685,76.963046,Delhi Transit Region,False
+Pant Nagar,28.583439,77.240519,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Parivar Apartment,28.626608,77.309415,Trans-Yamuna East Corridor,False
+Paschim Vihar Super Bazar,28.678714,77.100461,894: Okhla Depot ↔ Karampura,False
+Patel Chest,28.692385,77.208548,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Patel Chowk,28.624497,77.210967,505: Mehrauli ↔ Shivaji Stadium,False
+Patiala House,28.616435,77.23382,Mathura Road Corridor,False
+Patparganj crossing,28.61641,77.287998,Trans-Yamuna East Corridor,False
+Payal Cinema,28.631087,77.138313,894: Okhla Depot ↔ Karampura,False
+Peeli Kothi,28.662394,77.218097,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Peera Garhi,28.679859,77.092678,Delhi Transit Region,False
+Peera Garhi Chowk,28.679124,77.095972,Delhi Transit Region,False
+Peera Garhi Depot,28.678,77.093,Delhi Transit Region,True
+Pitam Pura KD Block,28.700288,77.141109,894: Okhla Depot ↔ Karampura,False
+Pitam Pura Power House,28.707616,77.134348,GT Karnal Highway Corridor,False
+Pitampura,28.702801,77.13271,894: Okhla Depot ↔ Karampura,False
+Pitampura CD Block,28.706326,77.13808,GT Karnal Highway Corridor,False
+Pitampura JD Block,28.70167,77.134666,894: Okhla Depot ↔ Karampura,False
+Pitampura ND Block,28.695573,77.14602,894: Okhla Depot ↔ Karampura,False
+Pitampura RU Block,28.707795,77.136395,GT Karnal Highway Corridor,False
+Pittam Pura R U Block,28.710639,77.136617,GT Karnal Highway Corridor,False
+Pittampura AP Block,28.703336,77.139358,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Pochan Pur Village,28.558675,77.04348,Delhi Transit Region,False
+Pochhan Pur Village Crossing,28.559381,77.038851,Delhi Transit Region,False
+Police Post,28.577396,77.035265,Delhi Transit Region,False
+Police Station Nizamuddin,28.591387,77.245015,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Police Station Paharganj,28.64601,77.208164,729: Kapashera Border ↔ Mori Gate,False
+Police Station Timarpur,28.706976,77.223953,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Pooth Kalan,28.714206,77.0769,Delhi Transit Region,False
+Poothkhurd Village,28.772351,77.048936,Delhi Transit Region,False
+Post Office,28.674785,77.207348,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Power House (1),28.672729,77.147116,894: Okhla Depot ↔ Karampura,False
+Power House (2),28.505802,77.300827,433: Badarpur Border ↔ New Delhi Railway Station,False
+Power House NajafGarh,28.612864,76.995579,578: Najafgarh ↔ Safdarjung,False
+Power House Rohini Sec 24,28.727092,77.08029,Delhi Transit Region,False
+Pragati Maidan,28.623656,77.240798,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Pragati Maidan Gate 5,28.617918,77.240461,419: Ambedkar Nagar ↔ Old Delhi Railway Station,False
+Pragati Maidan Terminal,28.6127,77.245,433: Badarpur Border ↔ New Delhi Railway Station,True
+Pragati Power Station,28.615983,77.250189,433: Badarpur Border ↔ New Delhi Railway Station,False
+Pragati Vihar,28.58767,77.229269,623: Vasant Kunj ↔ Central Secretariat,False
+Prahlad Market,28.653808,77.190766,729: Kapashera Border ↔ Mori Gate,False
+Prasant Vihar,28.716689,77.139298,GT Karnal Highway Corridor,False
+Prashant Vihar F Block,28.718792,77.138758,GT Karnal Highway Corridor,False
+Preet Vihar,28.639391,77.292172,Trans-Yamuna East Corridor,False
+Prehlad Pur,28.503997,77.291988,Mathura Road Corridor,False
+Prehladpur Crossing,28.749296,77.084741,Delhi Transit Region,False
+Prehladpur School,28.752919,77.075034,Delhi Transit Region,False
+Prehladpur Village,28.751166,77.080979,Delhi Transit Region,False
+Prem Bari Pul,28.697362,77.157205,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Prem Bari Pull,28.700095,77.158512,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Prem Nagar (1),28.621995,77.05709,578: Najafgarh ↔ Safdarjung,False
+Prem Nagar (2),28.742813,77.146437,GT Karnal Highway Corridor,False
+Prem Nagar (3),28.503577,77.280117,717A: Badarpur Border ↔ Kapashera Border,False
+Prem Nursary,28.610233,76.971291,578: Najafgarh ↔ Safdarjung,False
+Prem Piyau,28.766264,77.016472,Delhi Transit Region,False
+President Cabinet Apartments,28.582752,77.062531,Delhi Transit Region,False
+Press Apartment,28.622856,77.298247,Trans-Yamuna East Corridor,False
+Press Enclave,28.527859,77.207874,Mehrauli-Badarpur Corridor,False
+Primary School (1),28.846949,77.088344,GT Karnal Highway Corridor,False
+Primary School (2),28.797783,77.034079,Delhi Transit Region,False
+Prince Apartment,28.630883,77.300638,Trans-Yamuna East Corridor,False
+Princess Park Airforce Noval Office Enclave,28.587781,77.066659,764: Nehru Place ↔ Najafgarh,False
+Prithvi Raj Road (1),28.596459,77.217713,502: Mehrauli ↔ Old Delhi Railway Station,False
+Prithvi Raj Road (2),28.593262,77.214353,522: Ambedkar Nagar ↔ Shivaji Stadium,False
+Prithviraj Road Crossing,28.597491,77.219989,502: Mehrauli ↔ Old Delhi Railway Station,False
+Prithviraj Road P.S.Tughlaq road,28.598704,77.211238,522: Ambedkar Nagar ↔ Shivaji Stadium,False
+Pumposh Enclave,28.543571,77.244067,Outer Ring Road Arterial,False
+Punjab Khor Village (1),28.777819,76.961394,Delhi Transit Region,False
+Punjab Khor Village (2),28.773212,76.962126,Delhi Transit Region,False
+Punjabi Bagh Club,28.66344,77.131267,894: Okhla Depot ↔ Karampura,False
+Punjabi Bagh Terminal,28.6673,77.137322,894: Okhla Depot ↔ Karampura,True
+Purani Basti Rewla Tajpur,28.569581,76.977626,Delhi Transit Region,False
+Pusa Quarters,28.630142,77.167039,548: Tuglakabad Extension ↔ Moti Nagar,False
+Pusa Road Petrol Pump Sadhu Vaswani Marg,28.644731,77.193217,729: Kapashera Border ↔ Mori Gate,False
+Pushp Vihar,28.52474,77.230245,522: Ambedkar Nagar ↔ Shivaji Stadium,False
+Pushpa Bhawan,28.527989,77.231383,522: Ambedkar Nagar ↔ Shivaji Stadium,False
+Puspanjali Enclave,28.695852,77.111578,Delhi Transit Region,False
+Puspanjali G Block,28.54228,77.074058,729: Kapashera Border ↔ Mori Gate,False
+Pusta Crossing Akhardham Temple,28.6122,77.282495,Trans-Yamuna East Corridor,False
+Pusta No 1 Sonia Vihar,28.71888,77.243367,Delhi Transit Region,False
+Pusta No 2,28.68372,77.25517,261: Sarai Kale Khan ↔ Nand Nagri,False
+Pusta No 2 Sonia Vihar,28.721479,77.243971,Delhi Transit Region,False
+Pusta No 3 Sonia Vihar,28.725585,77.244859,Delhi Transit Region,False
+Pusta No 5 Sonia Vihar,28.734526,77.246652,Delhi Transit Region,False
+Q Block Mangol Puri Terminal,28.688007,77.091857,Delhi Transit Region,True
+Qadipur,28.578147,76.879798,Delhi Transit Region,False
+Qamruddin Nagar Terminal,28.682102,77.054233,Delhi Transit Region,True
+Qutab Minar,28.526498,77.1864,534: Anand Vihar ISBT ↔ Mehrauli,False
+Qutub Hotel,28.539076,77.189802,Aurobindo Marg Corridor,False
+Qutub Minar,28.51408,77.18626,717A: Badarpur Border ↔ Kapashera Border,False
+Qutub Minar Bus StopSation,28.511774,77.184472,717A: Badarpur Border ↔ Kapashera Border,False
+Qutub Vihar Phase I Kikar Stand,28.578287,77.02945,Delhi Transit Region,False
+R Block Dilshad Garden,28.679311,77.314521,Trans-Yamuna East Corridor,False
+R Block Rajendra Nagar,28.633655,77.173554,548: Tuglakabad Extension ↔ Moti Nagar,False
+R Block Rajinder Nagar,28.623394,77.180179,548: Tuglakabad Extension ↔ Moti Nagar,False
+R K Puram Nab,28.561049,77.175731,764: Nehru Place ↔ Najafgarh,False
+R K Puram Sec 2,28.561668,77.188281,764: Nehru Place ↔ Najafgarh,False
+R K Puram Sec 3,28.557559,77.183512,623: Vasant Kunj ↔ Central Secretariat,False
+R K Puram Sec 4,28.562458,77.180386,764: Nehru Place ↔ Najafgarh,False
+R K Puram Sec 5,28.561532,77.169102,546: Saket Bus Stop ↔ Dhaula Kuan,False
+R K Puram Sec 7,28.570611,77.172755,546: Saket Bus Stop ↔ Dhaula Kuan,False
+R K Puram Sec 8,28.569667,77.165764,546: Saket Bus Stop ↔ Dhaula Kuan,False
+R K Puram Sec 8 9,28.571951,77.169755,546: Saket Bus Stop ↔ Dhaula Kuan,False
+R R Line (1),28.596104,77.15033,729: Kapashera Border ↔ Mori Gate,False
+R R Line (2),28.604081,77.155113,894: Okhla Depot ↔ Karampura,False
+RK Khanna Tennis Stadium,28.558129,77.187072,623: Vasant Kunj ↔ Central Secretariat,False
+RK Puram Crossing,28.568439,77.183754,764: Nehru Place ↔ Najafgarh,False
+RK Puram Sec 1,28.564224,77.17993,764: Nehru Place ↔ Najafgarh,False
+RK Puram Sec 1 4,28.562909,77.178398,764: Nehru Place ↔ Najafgarh,False
+RK Puram Sec 12 (1),28.57372,77.178735,764: Nehru Place ↔ Najafgarh,False
+RK Puram Sec 12 (2),28.575723,77.172361,546: Saket Bus Stop ↔ Dhaula Kuan,False
+RK Puram Sec 12 (3),28.570555,77.182631,764: Nehru Place ↔ Najafgarh,False
+RK Puram Sec 13,28.571365,77.181775,Ring Road Arterial,False
+RK Puram Sec 9,28.571281,77.170767,546: Saket Bus Stop ↔ Dhaula Kuan,False
+RML Hospital,28.622546,77.196625,781: New Delhi Railway Station ↔ Kapashera Border,False
+RR Hospital Maharana Pratap Chowk,28.590187,77.155722,Airport Expressway Corridor,False
+Race Course,28.596425,77.202686,522: Ambedkar Nagar ↔ Shivaji Stadium,False
+Radha Swami Satsang,28.620511,77.307338,Trans-Yamuna East Corridor,False
+Radha Swami Satsang Rupali Enclave,28.733993,77.02081,Delhi Transit Region,False
+Radha Swami Satsang Sec 23 Dwarka,28.566846,77.04918,Delhi Transit Region,False
+Radheypuri,28.653955,77.292452,Trans-Yamuna East Corridor,False
+Radhu Palace,28.636589,77.285502,Trans-Yamuna East Corridor,False
+Radio Colony,28.71162,77.204424,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Radisson BLU Hotel,28.596149,77.037371,764: Nehru Place ↔ Najafgarh,False
+Radisson Hotel Mahipal Pur Crossing,28.5458,77.123174,717A: Badarpur Border ↔ Kapashera Border,False
+Raghu Nagar,28.612699,77.088521,764: Nehru Place ↔ Najafgarh,False
+Raghubir Nagar F Block,28.652303,77.106756,894: Okhla Depot ↔ Karampura,False
+Raghubir Nagar Gurudwara A Block,28.655327,77.11353,894: Okhla Depot ↔ Karampura,False
+Raghubir Nagar N Block,28.659384,77.112443,894: Okhla Depot ↔ Karampura,False
+Railway Colony,28.600673,77.177942,781: New Delhi Railway Station ↔ Kapashera Border,False
+Railway Museum,28.587075,77.185375,Airport Expressway Corridor,False
+Railway Road Bridge,28.609746,77.251704,Ring Road Arterial,False
+Rainy Well,28.628128,77.260779,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Raj Nagar,28.569811,77.201265,894: Okhla Depot ↔ Karampura,False
+Raja Garden,28.650863,77.126134,894: Okhla Depot ↔ Karampura,False
+Raja Garden Terminal,28.654629,77.123382,894: Okhla Depot ↔ Karampura,True
+Raja Puri (1),28.604182,77.054807,764: Nehru Place ↔ Najafgarh,False
+Raja Puri (2),28.673798,77.05517,Delhi Transit Region,False
+Rajdhani College Raja Garden,28.654831,77.125459,894: Okhla Depot ↔ Karampura,False
+Rajdhani Enclave Mahindra Park,28.68339,77.136582,894: Okhla Depot ↔ Karampura,False
+Rajdhani Park,28.682088,77.048133,Delhi Transit Region,False
+Rajdoot Hotel,28.582635,77.2526,433: Badarpur Border ↔ New Delhi Railway Station,False
+Rajeev Gandhi Cancer Hospital,28.717293,77.11183,Delhi Transit Region,False
+Rajeev Nagar,28.70631,77.250741,261: Sarai Kale Khan ↔ Nand Nagri,False
+Rajeev Ratan Aawas Baprola Phase 1,28.645014,77.020265,578: Najafgarh ↔ Safdarjung,False
+Rajender Nagar,28.640955,77.176021,548: Tuglakabad Extension ↔ Moti Nagar,False
+Rajendra Lakra Public School,28.740371,76.994451,Delhi Transit Region,False
+Rajendra Place,28.642487,77.177286,548: Tuglakabad Extension ↔ Moti Nagar,False
+Rajendra Place Karol Bagh Telephone Exchange,28.642648,77.180089,548: Tuglakabad Extension ↔ Moti Nagar,False
+Rajghat Cluster Depot,28.643957,77.252596,Ring Road Arterial,True
+Rajghat Gandhi Darshan,28.63869,77.251496,Ring Road Arterial,False
+Rajiv Nagar,28.724649,77.05884,Delhi Transit Region,False
+Rajokari Crossing,28.52252,77.098579,717A: Badarpur Border ↔ Kapashera Border,False
+Rajouri Garden,28.649161,77.122663,894: Okhla Depot ↔ Karampura,False
+Rajouri Garden Market,28.645464,77.126856,894: Okhla Depot ↔ Karampura,False
+Raksha Vigyan Kendra Metcalf House,28.682693,77.22908,Ring Road Arterial,False
+Ram Jas Road,28.659082,77.191197,729: Kapashera Border ↔ Mori Gate,False
+Ram Prastha Crossing,28.660699,77.320058,Trans-Yamuna East Corridor,False
+Ram Prastha Temple,28.66285,77.320332,Trans-Yamuna East Corridor,False
+Ram Puri Gali No 13,28.534798,77.259639,511A: Badarpur Border ↔ Dhaula Kuan,False
+Ram Vihar,28.657667,77.310558,Trans-Yamuna East Corridor,False
+Rama Krishna Ashram Marg,28.63744,77.20702,781: New Delhi Railway Station ↔ Kapashera Border,False
+Rama Park,28.619949,77.036947,578: Najafgarh ↔ Safdarjung,False
+Rama Vihar,28.728678,77.0457,Delhi Transit Region,False
+Ramdev Chowk Pithori Jhori,28.857761,77.092846,Delhi Transit Region,False
+Ramesh Park,28.635629,77.269806,Trans-Yamuna East Corridor,False
+Ramjas College,28.686771,77.206632,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Rampuri,28.537752,77.261329,Outer Ring Road Arterial,False
+Rana Pratap Bagh,28.688284,77.193692,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Rang Puri Pahari,28.53798,77.136547,717A: Badarpur Border ↔ Kapashera Border,False
+Rangpuri,28.54393,77.117843,729: Kapashera Border ↔ Mori Gate,False
+Ranhola Extension,28.65818,77.043443,Delhi Transit Region,False
+Ranhola II,28.654647,77.038001,578: Najafgarh ↔ Safdarjung,False
+Ranhola Village,28.655915,77.040606,578: Najafgarh ↔ Safdarjung,False
+Rani Bagh,28.683821,77.128793,894: Okhla Depot ↔ Karampura,False
+Rani Jhansi Road Jhande Walan,28.645571,77.204962,729: Kapashera Border ↔ Mori Gate,False
+Rani Khera,28.6992,77.027629,Delhi Transit Region,False
+Rani Khera Bus Stand (1),28.70397,77.027735,Delhi Transit Region,True
+Ras Vihar,28.625208,77.305665,Trans-Yamuna East Corridor,False
+Rashid Market,28.649906,77.278737,Trans-Yamuna East Corridor,False
+Rasulpur Village,28.706532,77.028001,Delhi Transit Region,False
+Ravinder Rang Shala,28.64009,77.19438,729: Kapashera Border ↔ Mori Gate,False
+Ravindra Nagar,28.598444,77.225022,623: Vasant Kunj ↔ Central Secretariat,False
+Rawta Crossing,28.600251,76.91585,Delhi Transit Region,False
+Rawta Village,28.523356,76.899627,Delhi Transit Region,False
+Red Cross Road,28.617683,77.211058,505: Mehrauli ↔ Shivaji Stadium,False
+Red Fort (1),28.657868,77.237156,Ring Road Arterial,False
+Red Fort (2),28.654048,77.236336,Ring Road Arterial,False
+Rewla Taj Pur More,28.577814,76.996565,764: Nehru Place ↔ Najafgarh,False
+Rewla Tajpur Crossing,28.572396,76.980884,Delhi Transit Region,False
+Rishal Garden,28.661763,77.04877,Delhi Transit Region,False
+Rishal Vihar,28.55361,76.992866,Delhi Transit Region,False
+Rithala,28.72042,77.10819,Delhi Transit Region,False
+Rithala Crossing,28.711615,77.107341,Delhi Transit Region,False
+Rithala School,28.715074,77.103881,Delhi Transit Region,False
+Rithala Village (1),28.717173,77.101428,Delhi Transit Region,False
+Rithala Village (2),28.725926,77.100294,Delhi Transit Region,False
+Road no 44 crossing,28.686493,77.135996,894: Okhla Depot ↔ Karampura,False
+Rohini Depot 1,28.716427,77.113439,Delhi Transit Region,True
+Rohini Depot 2,28.729875,77.121641,GT Karnal Highway Corridor,True
+Rohini Depot 3,28.695489,77.109,Delhi Transit Region,True
+Rohini East,28.707647,77.126065,GT Karnal Highway Corridor,False
+Rohini Sec 1 Avantika,28.702979,77.09983,Delhi Transit Region,False
+Rohini Sec 11 Agarwal Sabha,28.733848,77.11565,GT Karnal Highway Corridor,False
+Rohini Sec 11 Pkt A,28.727966,77.11506,GT Karnal Highway Corridor,False
+Rohini Sec 16,28.740192,77.11867,GT Karnal Highway Corridor,False
+Rohini Sec 16 17,28.7385,77.117322,GT Karnal Highway Corridor,False
+Rohini Sec 16 Crossing (1),28.7355,77.114637,GT Karnal Highway Corridor,False
+Rohini Sec 16 Crossing (2),28.742884,77.121073,GT Karnal Highway Corridor,False
+Rohini Sec 18 Bus Terminal,28.744805,77.130323,GT Karnal Highway Corridor,True
+Rohini Sec 20 21 More,28.715722,77.074233,Delhi Transit Region,False
+Rohini Sec 21,28.718868,77.069694,Delhi Transit Region,False
+Rohini Sec 22 24 Crossing,28.720399,77.069519,Delhi Transit Region,False
+Rohini Sec 22 Terminal,28.717985,77.063898,Delhi Transit Region,True
+Rohini Sec 23 Pkt 1,28.719206,77.084486,Delhi Transit Region,False
+Rohini Sec 24,28.728235,77.092472,Delhi Transit Region,False
+Rohini Sec 3 4 crossing,28.706227,77.102935,Delhi Transit Region,False
+Rohini Sec 5,28.713183,77.109108,Delhi Transit Region,False
+Rohini Sec 7 9,28.713778,77.117196,Delhi Transit Region,False
+"Rohini Sec 7,8 crossing",28.708399,77.125213,GT Karnal Highway Corridor,False
+Rohini Sec 9,28.711642,77.120288,Delhi Transit Region,False
+Rohini West,28.715002,77.115425,Delhi Transit Region,False
+Roop Nagar,28.684753,77.203765,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Roop Nagar Shakti Nagar,28.681935,77.198194,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Roshnara Bagh,28.672317,77.201485,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Roshnara Road,28.668069,77.206304,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+S Block Greater Kailash II,28.529096,77.245041,511A: Badarpur Border ↔ Dhaula Kuan,False
+S O Flats Carriappa Marg,28.600287,77.139681,764: Nehru Place ↔ Najafgarh,False
+S.K.V.Dhansa,28.557676,76.862348,Delhi Transit Region,False
+S.Sr. Kanya Vidhyalaya,28.646697,76.955937,Delhi Transit Region,False
+SDM Court Kanjhawala,28.740487,77.009545,Delhi Transit Region,False
+SDM Office Bank Enclave,28.64347,77.27039,Trans-Yamuna East Corridor,False
+SFS Flat Sec 2 Power House,28.599855,77.071501,764: Nehru Place ↔ Najafgarh,False
+SFS Quarter Gazipur,28.630534,77.316378,Trans-Yamuna East Corridor,False
+SJ Airport,28.58414,77.212551,522: Ambedkar Nagar ↔ Shivaji Stadium,False
+SJ Hospital,28.569933,77.20226,894: Okhla Depot ↔ Karampura,False
+SJ Madrasa,28.587688,77.212763,522: Ambedkar Nagar ↔ Shivaji Stadium,False
+SNPD,28.560844,77.260526,433: Badarpur Border ↔ New Delhi Railway Station,True
+SPM College,28.675125,77.127868,894: Okhla Depot ↔ Karampura,False
+Sabhapur Crossing,28.72933,77.259695,Delhi Transit Region,False
+Sabhapur More,28.750158,77.243886,Delhi Transit Region,False
+Sadar Bazar,28.59552,77.122681,764: Nehru Place ↔ Najafgarh,False
+Sadhna Enclave,28.542872,77.215034,764: Nehru Place ↔ Najafgarh,False
+Safdarjung Enclave,28.566209,77.191166,548: Tuglakabad Extension ↔ Moti Nagar,False
+Safdurjung Terminal,28.579543,77.214192,Aurobindo Marg Corridor,True
+Safiyabad crossing,28.85525,77.089746,Delhi Transit Region,False
+Sagarpur Vashisht Park,28.609099,77.099713,764: Nehru Place ↔ Najafgarh,False
+Sai Apartment,28.720874,77.134494,GT Karnal Highway Corridor,False
+Sai Baba Chowk,28.708973,77.123647,Delhi Transit Region,False
+Sai Baba Mandir,28.613864,77.000551,578: Najafgarh ↔ Safdarjung,False
+Saidul A Jab (1),28.520511,77.202571,546: Saket Bus Stop ↔ Dhaula Kuan,False
+Saidul A Jab (2),28.523629,77.190976,Mehrauli-Badarpur Corridor,False
+Saini Enclave,28.65024,77.30535,Trans-Yamuna East Corridor,False
+Sainik Enclave Vikas Nagar Nala Road,28.635069,77.025319,578: Najafgarh ↔ Safdarjung,False
+Saiyyad Nagar Dilshad Garden,28.68256,77.331557,Trans-Yamuna East Corridor,False
+Saket,28.518838,77.199438,546: Saket Bus Stop ↔ Dhaula Kuan,False
+Saket A Block,28.527974,77.204988,Mehrauli-Badarpur Corridor,False
+Saket Crossing,28.517743,77.216621,534: Anand Vihar ISBT ↔ Mehrauli,False
+Saleemgarh Road,28.650135,77.252359,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Samalka Crossing,28.538023,77.093324,729: Kapashera Border ↔ Mori Gate,False
+Samalka Village,28.534411,77.090276,729: Kapashera Border ↔ Mori Gate,False
+Samalkha More,28.538169,77.091292,729: Kapashera Border ↔ Mori Gate,False
+Samaspur Jagir Village,28.615485,77.284352,Trans-Yamuna East Corridor,False
+Samaspur Khalsa,28.578427,76.909958,Delhi Transit Region,False
+Samaypur School,28.744088,77.143041,GT Karnal Highway Corridor,False
+Samrat Enclave,28.685327,77.141271,894: Okhla Depot ↔ Karampura,False
+Sangam Cinema,28.573624,77.173554,546: Saket Bus Stop ↔ Dhaula Kuan,False
+Sanjay Gandhi Transport Nagar,28.739862,77.153997,GT Karnal Highway Corridor,False
+Sanjay Lake Trilokpuri,28.620562,77.296032,Trans-Yamuna East Corridor,False
+Sanoth crossing Ghogha crossing,28.819764,77.063622,Delhi Transit Region,False
+Sanskrit Vidyapeeth,28.541959,77.18269,546: Saket Bus Stop ↔ Dhaula Kuan,False
+Sant Nagar,28.552473,77.246184,511A: Badarpur Border ↔ Dhaula Kuan,False
+Sant Nagar A 1,28.738198,77.197416,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Sant Nagar Main Market,28.741892,77.197897,Delhi Transit Region,False
+Sant Pura,28.638767,77.100512,578: Najafgarh ↔ Safdarjung,False
+Sant Vivekanand School,28.742272,76.986607,Delhi Transit Region,False
+Sapera Basti Crossing,28.617867,77.336632,Trans-Yamuna East Corridor,False
+Sarai Kale Khan ISBT,28.585038,77.25876,534: Anand Vihar ISBT ↔ Mehrauli,True
+Sarai Pipal Thala,28.719398,77.168234,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Sarai Rohila,28.66239,77.182298,729: Kapashera Border ↔ Mori Gate,False
+Sarai Rohilla Flyover,28.667084,77.181943,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Saraswati Kunj,28.623861,77.301272,Trans-Yamuna East Corridor,False
+Saraswati Kunj Jharoda,28.63082,76.965428,578: Najafgarh ↔ Safdarjung,False
+Saraswati Vihar C Block,28.700105,77.125122,894: Okhla Depot ↔ Karampura,False
+Sardar Patel Marg,28.597259,77.171481,781: New Delhi Railway Station ↔ Kapashera Border,False
+Sarita Vihar,28.532311,77.287126,433: Badarpur Border ↔ New Delhi Railway Station,False
+Sarojini Nagar Depot,28.573454,77.189987,578: Najafgarh ↔ Safdarjung,True
+Sarvodhya Vidhyalay Burari,28.749118,77.198525,Delhi Transit Region,False
+Sarvodya School Daulat Pur,28.543814,76.963576,Delhi Transit Region,False
+Satya Niketan,28.587785,77.170451,Airport Expressway Corridor,False
+Satya Puram Jharoda,28.663224,76.944888,Delhi Transit Region,False
+Satyam Apartments,28.598812,77.318581,Trans-Yamuna East Corridor,False
+Satyam Enclave Jhilmil DDA Flats,28.666726,77.304655,Trans-Yamuna East Corridor,False
+Satyawati College,28.695202,77.179438,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Savitri Cinema,28.541741,77.238384,Outer Ring Road Arterial,False
+School Of Physical Science,28.546526,77.17933,546: Saket Bus Stop ↔ Dhaula Kuan,False
+Scindia House,28.629007,77.221808,781: New Delhi Railway Station ↔ Kapashera Border,False
+Sec 10A Pkt 6,28.849029,77.098387,GT Karnal Highway Corridor,False
+Sec 24 Rohini Main Road,28.727038,77.098489,Delhi Transit Region,False
+Sec 5 8 Narela,28.85711,77.097951,Delhi Transit Region,False
+Sec A 9 Narela,28.854547,77.097827,GT Karnal Highway Corridor,False
+Sec A 9 and A 6 Narela,28.851773,77.097762,GT Karnal Highway Corridor,False
+Sector 17 18 More Dwarka,28.593511,77.03327,764: Nehru Place ↔ Najafgarh,False
+Seelam Pur,28.669308,77.26687,261: Sarai Kale Khan ↔ Nand Nagri,False
+Seelam Pur Bus StopMall,28.670969,77.268274,Trans-Yamuna East Corridor,False
+Seelam Pur Petrol Pump,28.671968,77.273386,Trans-Yamuna East Corridor,False
+Seelampur Market,28.673081,77.269955,Trans-Yamuna East Corridor,False
+Seemapuri Old,28.680948,77.327765,Trans-Yamuna East Corridor,False
+Seetapuri Extension,28.611803,77.084797,764: Nehru Place ↔ Najafgarh,False
+Sena Bhawan,28.608179,77.206654,505: Mehrauli ↔ Shivaji Stadium,False
+Sewa Kutir,28.702431,77.209692,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Sewa Nagar Flyover,28.578826,77.22935,623: Vasant Kunj ↔ Central Secretariat,False
+Shadipur Colony,28.651679,77.156323,548: Tuglakabad Extension ↔ Moti Nagar,False
+Shadipur DTC Colony,28.651503,77.158281,548: Tuglakabad Extension ↔ Moti Nagar,False
+Shadipur Depot,28.653193,77.156028,548: Tuglakabad Extension ↔ Moti Nagar,True
+Shahadara Border,28.676139,77.321505,Trans-Yamuna East Corridor,False
+Shahbad Dairy,28.746519,77.096309,Delhi Transit Region,False
+Shahbad Dairy A Block,28.745831,77.0985,Delhi Transit Region,False
+Shahbad Daulatpur Gaon,28.745229,77.112111,Delhi Transit Region,False
+Shahbad School,28.745633,77.107349,Delhi Transit Region,False
+Shahdara Border,28.677669,77.323408,Trans-Yamuna East Corridor,False
+Shahdara Railway Bridge,28.674978,77.289772,261: Sarai Kale Khan ↔ Nand Nagri,False
+Shahdara Terminal,28.674078,77.287596,Trans-Yamuna East Corridor,True
+Shahdra Border,28.6758,77.323069,Trans-Yamuna East Corridor,False
+Shaheed Bhagat Singh Colony Karawal Nagar,28.732963,77.260197,Delhi Transit Region,False
+Shaheed Bhagat Singh Marg,28.633371,77.210744,781: New Delhi Railway Station ↔ Kapashera Border,False
+Shaheed Park,28.635113,77.241113,Mathura Road Corridor,True
+Shaheen Bagh Thokar No 5,28.552488,77.299887,Mathura Road Corridor,False
+Shaheen Bagh Thokar No 8,28.549035,77.30409,Mathura Road Corridor,False
+Shaheen Bagh Thokar No. 7,28.550647,77.301958,Mathura Road Corridor,False
+Shahjahan Road UPSC,28.607165,77.22682,623: Vasant Kunj ↔ Central Secretariat,False
+Shahpur Jat,28.548222,77.209978,Aurobindo Marg Corridor,False
+Shajahan Road UPSC,28.608351,77.22793,623: Vasant Kunj ↔ Central Secretariat,False
+Shakar Pur School Block,28.627364,77.279267,Trans-Yamuna East Corridor,False
+Shakarpur,28.633572,77.282116,Trans-Yamuna East Corridor,False
+Shakarpur Crossing,28.635399,77.284813,Trans-Yamuna East Corridor,False
+Shakti Nagar,28.68041,77.199316,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Shakti Nagar Nangia Park,28.680335,77.196196,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Shakur Basti,28.683483,77.133943,894: Okhla Depot ↔ Karampura,False
+Shakurpur JJ Colony Britannia,28.684914,77.144879,894: Okhla Depot ↔ Karampura,False
+Shakurpur JJColony,28.680946,77.143131,894: Okhla Depot ↔ Karampura,False
+Shalimar Bagh (1),28.70125,77.161978,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Shalimar Bagh A Block,28.703598,77.169065,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Shalimar Bagh AE Block,28.70837,77.16639,GT Karnal Highway Corridor,False
+Shalimar Bagh BA Block,28.708601,77.16173,GT Karnal Highway Corridor,False
+Shalimar Bagh BH Block,28.714727,77.157258,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Shalimar Bagh BJ Block,28.712569,77.158929,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Shalimar Bagh Desu Colony,28.718583,77.158516,GT Karnal Highway Corridor,False
+Shalimar Bagh crossing,28.708814,77.174778,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Shalimar Garden More,28.688108,77.330198,261: Sarai Kale Khan ↔ Nand Nagri,False
+Shankar Road,28.638693,77.17941,548: Tuglakabad Extension ↔ Moti Nagar,False
+Shankar Vihar National Highway 8,28.566488,77.133986,Airport Expressway Corridor,False
+Shanti Niketan,28.573026,77.163421,546: Saket Bus Stop ↔ Dhaula Kuan,False
+Shanti Niketan RK Puram Sec 9,28.574238,77.168863,546: Saket Bus Stop ↔ Dhaula Kuan,False
+Shanti Vana,28.649213,77.24547,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Shashi Garden crossing,28.61352,77.293883,Trans-Yamuna East Corridor,False
+Shastri Bazar,28.596695,77.134963,729: Kapashera Border ↔ Mori Gate,False
+Shastri Nagar,28.670139,77.181865,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Shastri Nagar A Block,28.672464,77.185948,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Shastri Nagar E Block,28.671259,77.176139,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Shastri Nagar Shiv Mandir,28.671656,77.173154,548: Tuglakabad Extension ↔ Moti Nagar,False
+Shastri Park Bus Depot,28.670006,77.25502,261: Sarai Kale Khan ↔ Nand Nagri,True
+Shastri Park Depot,28.674092,77.243445,261: Sarai Kale Khan ↔ Nand Nagri,True
+Shastri Park Pusta Road,28.673141,77.255794,261: Sarai Kale Khan ↔ Nand Nagri,False
+Sheikh Sarai Phase 2,28.532954,77.230627,548: Tuglakabad Extension ↔ Moti Nagar,False
+Sheikh Sarai Phase Ii Shaheed Bhagat Singh College,28.535176,77.228341,522: Ambedkar Nagar ↔ Shivaji Stadium,False
+Shikar Pur Crossing,28.545481,76.965239,Delhi Transit Region,False
+Shikar Pur Village,28.529969,76.955236,Delhi Transit Region,False
+Shiv Enclave Dichau,28.62405,76.984642,578: Najafgarh ↔ Safdarjung,False
+Shiv Mandir,28.68986,77.283866,261: Sarai Kale Khan ↔ Nand Nagri,False
+Shiv Murti,28.53564,77.11255,Airport Expressway Corridor,False
+Shiv Murti II NH 8 Dawrcka More,28.534865,77.108664,729: Kapashera Border ↔ Mori Gate,False
+Shiv Shankar Dharam Kanta (1),28.68365,77.011694,Delhi Transit Region,False
+Shiv Shankar Dharam Kanta (2),28.683574,77.016198,Delhi Transit Region,False
+Shiv vihar Bheem chowk,28.733362,77.025072,Delhi Transit Region,False
+ShivRam Park,28.667747,77.055234,Delhi Transit Region,False
+Shivaji College,28.6548,77.121799,894: Okhla Depot ↔ Karampura,False
+Shivaji Park (1),28.674634,77.131882,894: Okhla Depot ↔ Karampura,False
+Shivaji Park (2),28.638652,77.224141,502: Mehrauli ↔ Old Delhi Railway Station,False
+Shivaji Stadium Terminal,28.632517,77.215525,502: Mehrauli ↔ Old Delhi Railway Station,True
+Shivam Plywood,28.735364,77.012196,Delhi Transit Region,False
+Shivani Apartments Kunj Vihar Sector 12 Dwarka,28.594135,77.03579,764: Nehru Place ↔ Najafgarh,False
+Shivpuri Colony,28.651482,77.278191,Trans-Yamuna East Corridor,False
+Shreshtha Vihar,28.659456,77.318483,Trans-Yamuna East Corridor,False
+Shri Golok Dham Bijwasan School,28.533511,77.059611,729: Kapashera Border ↔ Mori Gate,False
+Shri Krishna Gaushala,28.77945,77.021883,Delhi Transit Region,False
+Shri Ram Institute,28.681377,77.212324,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Shyam Giri Mandir,28.674063,77.247544,261: Sarai Kale Khan ↔ Nand Nagri,False
+Shyam Vihar,28.591439,77.000465,764: Nehru Place ↔ Najafgarh,False
+Sikkim House,28.599525,77.184954,781: New Delhi Railway Station ↔ Kapashera Border,False
+Sir Chhotu Ram Polytechnic,28.706962,77.00116,Delhi Transit Region,False
+Sir Ganga Ram Hospital,28.639047,77.188058,548: Tuglakabad Extension ↔ Moti Nagar,False
+Siras Pur Chhattri,28.759716,77.129163,GT Karnal Highway Corridor,False
+Siras Pur Crossing,28.763866,77.145714,GT Karnal Highway Corridor,False
+Siri Fort Road,28.55349,77.22827,419: Ambedkar Nagar ↔ Old Delhi Railway Station,False
+Social works school,28.693488,77.217329,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Sonia Vihar,28.732404,77.246249,Delhi Transit Region,False
+South Enclave,28.609987,77.199272,781: New Delhi Railway Station ↔ Kapashera Border,False
+South Extension (1),28.568695,77.220537,578: Najafgarh ↔ Safdarjung,False
+South Extension (2),28.568675,77.218465,623: Vasant Kunj ↔ Central Secretariat,False
+South Extn Kotla Petrol Pump,28.568932,77.216874,511A: Badarpur Border ↔ Dhaula Kuan,False
+South Moti Bagh (1),28.577364,77.173683,546: Saket Bus Stop ↔ Dhaula Kuan,False
+South Moti Bagh (2),28.581733,77.174172,Airport Expressway Corridor,False
+South Park Appartments CR Park,28.541032,77.249178,511A: Badarpur Border ↔ Dhaula Kuan,False
+South Patel Nagar,28.645346,77.168545,548: Tuglakabad Extension ↔ Moti Nagar,False
+Sri Krishan Apartments,28.743816,77.126185,GT Karnal Highway Corridor,False
+Sri Nagesh Garden,28.59659,77.140658,729: Kapashera Border ↔ Mori Gate,False
+St Marry School,28.573522,77.048521,Delhi Transit Region,False
+St Stephen Hospital,28.667247,77.214969,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+St Thomas School Goyla Vihar,28.581859,77.015064,764: Nehru Place ↔ Najafgarh,False
+St Xavier School,28.745541,77.10285,Delhi Transit Region,False
+St. Lawrence School,28.652459,77.269272,261: Sarai Kale Khan ↔ Nand Nagri,False
+St. Martin School,28.596675,77.1459,764: Nehru Place ↔ Najafgarh,False
+State Bank Colony,28.695532,77.1881,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Statesman House,28.630376,77.223811,781: New Delhi Railway Station ↔ Kapashera Border,False
+Subhadra Colony,28.671144,77.184033,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Subhash Nagar Crossing Mukherji Park,28.641929,77.108868,578: Najafgarh ↔ Safdarjung,False
+Subhash Park,28.649126,77.239317,Ring Road Arterial,False
+Subroto Park,28.574132,77.151689,781: New Delhi Railway Station ↔ Kapashera Border,False
+Sucheta Kriplani Hospital,28.636314,77.213993,502: Mehrauli ↔ Old Delhi Railway Station,False
+Sujan Singh Park,28.600821,77.228814,623: Vasant Kunj ↔ Central Secretariat,False
+Sukhbeer Nagar,28.72759,77.048953,Delhi Transit Region,False
+Sukhdev Vihar,28.558774,77.273018,534: Anand Vihar ISBT ↔ Mehrauli,False
+Sukhdev Vihar Depot,28.554487,77.271482,Mathura Road Corridor,True
+Sultan Pur Crossing Poothkhurd,28.767879,77.049307,Delhi Transit Region,False
+Sultan Pur crossing,28.756321,77.015406,Delhi Transit Region,False
+Sultan Puri Crossing,28.682381,77.068784,Delhi Transit Region,False
+Sultanpuri Terminal,28.70325,77.075267,Delhi Transit Region,True
+Sumesh Vihar,28.557903,77.004357,Delhi Transit Region,False
+Sunder Apartment,28.665495,77.092319,894: Okhla Depot ↔ Karampura,False
+Sunder Nagar,28.602059,77.240688,Mathura Road Corridor,False
+Sunder Nagri,28.692735,77.316011,261: Sarai Kale Khan ↔ Nand Nagri,False
+Sunder Vihar,28.6635,77.092027,578: Najafgarh ↔ Safdarjung,False
+Sunehri Masjid G Block,28.609564,77.209753,505: Mehrauli ↔ Shivaji Stadium,False
+Super Bazar (1),28.613418,77.316325,Trans-Yamuna East Corridor,False
+Super Bazar (2),28.63269,77.223115,781: New Delhi Railway Station ↔ Kapashera Border,False
+Supply Depot,28.606606,77.123176,578: Najafgarh ↔ Safdarjung,True
+Supreme Court (1),28.621806,77.237633,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Supreme Court (2),28.619698,77.236426,Mathura Road Corridor,False
+Suraj Mal Vihar,28.66131,77.303684,Trans-Yamuna East Corridor,False
+Suraj Vihar,28.61323,77.033224,764: Nehru Place ↔ Najafgarh,False
+Surajkund Crossing,28.501693,77.289657,Mathura Road Corridor,False
+Surajmal Stadium,28.681911,77.074009,Delhi Transit Region,False
+Surakh Pur Crossing,28.615495,76.976287,578: Najafgarh ↔ Safdarjung,False
+Surehra Crossing,28.604291,76.932369,Delhi Transit Region,False
+Surehra Village,28.598649,76.936378,Delhi Transit Region,False
+Surya Nagar,28.666962,77.321485,Trans-Yamuna East Corridor,False
+Surya Niketan,28.655677,77.310337,Trans-Yamuna East Corridor,False
+Swami Malai Mandir,28.567877,77.164924,546: Saket Bus Stop ↔ Dhaula Kuan,False
+Swami Nagar,28.542286,77.224735,Outer Ring Road Arterial,False
+Swaran Cinema,28.663562,77.285832,Trans-Yamuna East Corridor,False
+Swarg Ashram,28.630923,77.114959,578: Najafgarh ↔ Safdarjung,False
+Swarn Park,28.682451,77.0408,Delhi Transit Region,False
+Swaroop Nagar Gt Road,28.758047,77.147638,GT Karnal Highway Corridor,False
+Swaroop Nagar JJ Colony,28.755846,77.162792,GT Karnal Highway Corridor,False
+Swatantra Bharat Mills,28.663141,77.154744,548: Tuglakabad Extension ↔ Moti Nagar,False
+T B Hospital (1),28.528495,77.189988,Aurobindo Marg Corridor,False
+T B Hospital (2),28.700568,77.205011,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+T Block Magol Puri,28.68949,77.082043,Delhi Transit Region,False
+TELCO Gazipur,28.640869,77.315506,Trans-Yamuna East Corridor,False
+TV Tower,28.699854,77.151194,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Tagore Garden,28.647221,77.116715,894: Okhla Depot ↔ Karampura,False
+Tagore Garden D Block,28.652777,77.111949,894: Okhla Depot ↔ Karampura,False
+Tagore Garden Tatarpur,28.644245,77.113495,894: Okhla Depot ↔ Karampura,False
+Tahir Pur,28.691451,77.325019,261: Sarai Kale Khan ↔ Nand Nagri,False
+Taimur Nagar,28.571708,77.266321,534: Anand Vihar ISBT ↔ Mehrauli,False
+Taj Pur More,28.583298,77.011661,764: Nehru Place ↔ Najafgarh,False
+Taj Pur Village,28.576131,77.008684,Delhi Transit Region,False
+Talkatora Road,28.623219,77.201656,623: Vasant Kunj ↔ Central Secretariat,False
+Talkatora Stadium,28.626222,77.196455,781: New Delhi Railway Station ↔ Kapashera Border,False
+Talkatora Stadium Garden,28.621589,77.194565,781: New Delhi Railway Station ↔ Kapashera Border,False
+Tara Apartments Terminal,28.523891,77.255063,511A: Badarpur Border ↔ Dhaula Kuan,True
+Tatesar Gurukul,28.758681,76.967584,Delhi Transit Region,False
+Tatesar Village,28.755817,76.968664,Delhi Transit Region,False
+Teen Murti,28.605863,77.198975,781: New Delhi Railway Station ↔ Kapashera Border,False
+Tees Hazari Animal Hospital Mori Gate,28.664394,77.215231,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Tees Hazari Court,28.666787,77.21895,729: Kapashera Border ↔ Mori Gate,False
+Tehkhand Depot DTC,28.510934,77.281042,Mathura Road Corridor,True
+Telephone Exchange,28.643133,77.182043,729: Kapashera Border ↔ Mori Gate,False
+Thana DB Gupta Road,28.652606,77.193219,729: Kapashera Border ↔ Mori Gate,False
+Thana Sabji Mandi Ice Factory,28.669248,77.207697,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+The Uppal Hotel,28.53635,77.102047,729: Kapashera Border ↔ Mori Gate,False
+Thimiyan Park,28.602717,77.133492,764: Nehru Place ↔ Najafgarh,False
+Tibiya College,28.657466,77.194777,729: Kapashera Border ↔ Mori Gate,False
+Tihar Jail,28.619169,77.104447,578: Najafgarh ↔ Safdarjung,False
+Tikri Border,28.687928,76.964072,Delhi Transit Region,False
+Tikri Hospital,28.686804,76.978358,Delhi Transit Region,False
+Tikri Kalan Village,28.682561,76.964858,Delhi Transit Region,False
+Tikri Piyau Azad Hind Gram,28.686613,76.980556,Delhi Transit Region,False
+Tikri Village,28.687431,76.971089,Delhi Transit Region,False
+Tilak Bridge,28.623892,77.239353,Mathura Road Corridor,False
+Tilak Nagar,28.63459,77.097372,578: Najafgarh ↔ Safdarjung,False
+Tilak Nagar crossing,28.635543,77.092973,578: Najafgarh ↔ Safdarjung,False
+Tilak Pul,28.621444,77.070042,764: Nehru Place ↔ Najafgarh,False
+TilangPur Kotla,28.649566,77.027202,578: Najafgarh ↔ Safdarjung,False
+Timarpur,28.700967,77.221226,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Titiksha Public School,28.72508,77.259071,Delhi Transit Region,False
+Todapur Village,28.624108,77.156361,548: Tuglakabad Extension ↔ Moti Nagar,False
+Toll Tax Post,28.543303,77.012947,Delhi Transit Region,False
+Tolstoy Marg,28.626444,77.22085,522: Ambedkar Nagar ↔ Shivaji Stadium,False
+Trilokpuri 13 Block,28.612767,77.30761,Trans-Yamuna East Corridor,False
+Tuda Mandi,28.612554,76.990924,764: Nehru Place ↔ Najafgarh,False
+Tughalqabad Village,28.50905,77.265235,717A: Badarpur Border ↔ Kapashera Border,False
+Tughlaq Crescent,28.594984,77.211929,502: Mehrauli ↔ Old Delhi Railway Station,False
+Tughlaqabad Extn,28.525494,77.260767,511A: Badarpur Border ↔ Dhaula Kuan,False
+Turkman Gate G B Pant Hosipatal,28.641759,77.232984,502: Mehrauli ↔ Old Delhi Railway Station,False
+Tyag Raj Marg,28.609002,77.203035,505: Mehrauli ↔ Shivaji Stadium,False
+Udaseen Ashram,28.6217,76.988161,578: Najafgarh ↔ Safdarjung,False
+Uday Park,28.559198,77.219364,522: Ambedkar Nagar ↔ Shivaji Stadium,False
+Udyog Bhawan,28.612589,77.212066,505: Mehrauli ↔ Shivaji Stadium,False
+Udyog Nagar,28.680188,77.089408,Delhi Transit Region,False
+Ujwa Gaon,28.568775,76.906734,Delhi Transit Region,False
+Ujwa School,28.570493,76.907295,Delhi Transit Region,False
+Unani Hospital Okhla Ext Thokar 3,28.55896,77.296118,Mathura Road Corridor,False
+Upper Ridge Road,28.632569,77.188626,548: Tuglakabad Extension ↔ Moti Nagar,False
+Uttam Nagar Terminal,28.626125,77.06831,578: Najafgarh ↔ Safdarjung,True
+Uttri Pitam Pura,28.714176,77.138976,GT Karnal Highway Corridor,False
+Vaishali Enclave Kapil Vihar,28.699735,77.137132,894: Okhla Depot ↔ Karampura,False
+Valmiki Hospital,28.775095,77.047494,Delhi Transit Region,False
+Vasant Kunj Sec A ILBS,28.511558,77.166878,717A: Badarpur Border ↔ Kapashera Border,False
+Vasant Kunj Sec A Pkt BC,28.510379,77.170299,717A: Badarpur Border ↔ Kapashera Border,False
+Vasant Kunj Sec C 8,28.536718,77.139999,717A: Badarpur Border ↔ Kapashera Border,False
+Vasant Kunj Sec D 3 4,28.516996,77.161115,717A: Badarpur Border ↔ Kapashera Border,False
+Vasant Kunj sec B1,28.522164,77.15757,717A: Badarpur Border ↔ Kapashera Border,False
+Vasant Lok,28.560288,77.163907,546: Saket Bus Stop ↔ Dhaula Kuan,False
+Vasant Vihar,28.562974,77.168017,546: Saket Bus Stop ↔ Dhaula Kuan,False
+Vasant Vihar Depot,28.558,77.158,623: Vasant Kunj ↔ Central Secretariat,True
+Vasant Vihar F Block Poorvi Marg,28.560339,77.161404,546: Saket Bus Stop ↔ Dhaula Kuan,False
+Vasant Village,28.575459,77.158959,546: Saket Bus Stop ↔ Dhaula Kuan,False
+Vayu Sena Bad,28.51279,77.239,548: Tuglakabad Extension ↔ Moti Nagar,False
+Videocon Tower,28.644317,77.203563,729: Kapashera Border ↔ Mori Gate,False
+Vigyan Bhawan,28.610172,77.221656,502: Mehrauli ↔ Old Delhi Railway Station,False
+Vijay Enclave,28.606263,77.075272,764: Nehru Place ↔ Najafgarh,False
+Vijay Ghat,28.657644,77.244754,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Vijay Park,28.694408,77.280539,261: Sarai Kale Khan ↔ Nand Nagri,False
+Vijaya Laxmi Apartment,28.62888,77.308923,Trans-Yamuna East Corridor,False
+Vikas Puri Crossing,28.627008,77.070704,578: Najafgarh ↔ Safdarjung,False
+Vikas Sadan,28.576533,77.213346,Aurobindo Marg Corridor,False
+Vikaspuri J Block,28.643391,77.079381,578: Najafgarh ↔ Safdarjung,False
+Vinay Marg,28.586364,77.193552,511A: Badarpur Border ↔ Dhaula Kuan,False
+Virender Nagar Dilli Haat,28.623395,77.096878,764: Nehru Place ↔ Najafgarh,False
+Vishal Enclave,28.653188,77.118494,894: Okhla Depot ↔ Karampura,False
+Vishwa Vidyalaya,28.695129,77.214767,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Visram Chowk,28.709146,77.105354,Delhi Transit Region,False
+Vivek Vihar ITI,28.670605,77.315884,Trans-Yamuna East Corridor,False
+Vivek Vihar Ram Mandir,28.667843,77.319533,Trans-Yamuna East Corridor,False
+Vivek Vihar Terminal,28.668228,77.314389,Trans-Yamuna East Corridor,True
+Vivekanand Mahila College,28.666077,77.314308,Trans-Yamuna East Corridor,False
+Vivekanand Marg,28.641411,77.226125,502: Mehrauli ↔ Old Delhi Railway Station,False
+Vocational College,28.532116,77.227716,522: Ambedkar Nagar ↔ Shivaji Stadium,False
+Vriddha Ashram,28.744531,76.980937,Delhi Transit Region,False
+Wazir Pur Industrial Area Ashok Vihar Crossing,28.701756,77.167246,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Wazir Pur JJ Colony,28.682012,77.170101,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Wazirabad Crossing GT Road,28.71139,77.228175,Delhi Transit Region,False
+Wazirpur Depot,28.693572,77.155382,181: Hazrat Nizamuddin ↔ Jahangirpuri,True
+Welcome,28.672423,77.276966,Trans-Yamuna East Corridor,False
+Welcome Colony (1),28.671221,77.269778,Trans-Yamuna East Corridor,False
+Welcome Colony (2),28.67273,77.279159,Trans-Yamuna East Corridor,False
+Welcome Colony (3),28.672134,77.275059,261: Sarai Kale Khan ↔ Nand Nagri,False
+West Enclave Terminal,28.691667,77.100991,Delhi Transit Region,True
+West Patel Nagar,28.647464,77.165231,548: Tuglakabad Extension ↔ Moti Nagar,False
+Windsor Place,28.617925,77.218775,502: Mehrauli ↔ Old Delhi Railway Station,False
+Wood Market,28.638764,77.133048,894: Okhla Depot ↔ Karampura,False
+YMCA Jai Singh Road,28.626393,77.212548,505: Mehrauli ↔ Shivaji Stadium,False
+Yamuna Bazar GGS Universicy,28.664961,77.235396,Ring Road Arterial,False
+Yamuna Sports Complex,28.660032,77.311737,Trans-Yamuna East Corridor,False
+Yamuna Vihar Ablock,28.703095,77.270031,261: Sarai Kale Khan ↔ Nand Nagri,False
+Yamuna Vihar Block C 1,28.70327,77.267598,261: Sarai Kale Khan ↔ Nand Nagri,False
+Yamuna Vihar Brijpuri,28.70263,77.27379,261: Sarai Kale Khan ↔ Nand Nagri,False
+Yojana Vihar,28.659806,77.315279,Trans-Yamuna East Corridor,False
+Yojana Vihar Yamuna Sports Complex,28.663319,77.314604,Trans-Yamuna East Corridor,False
+Yusuf Sarai,28.562576,77.207492,502: Mehrauli ↔ Old Delhi Railway Station,False
+Zafrabad,28.676216,77.271451,261: Sarai Kale Khan ↔ Nand Nagri,False
+Zafrabad School,28.683475,77.275131,261: Sarai Kale Khan ↔ Nand Nagri,False
+Zakhira,28.667723,77.164157,548: Tuglakabad Extension ↔ Moti Nagar,False
+Zakir Husain College,28.641113,77.229803,502: Mehrauli ↔ Old Delhi Railway Station,False
+Zero Pusta,28.677797,77.25661,261: Sarai Kale Khan ↔ Nand Nagri,False
+Zoo,28.608424,77.24006,181: Hazrat Nizamuddin ↔ Jahangirpuri,False
+Zunk Market,28.617675,77.111546,578: Najafgarh ↔ Safdarjung,False

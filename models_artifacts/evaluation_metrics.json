@@ -1,0 +1,26 @@
+{
+  "model_name": "HistGradientBoostingRegressor",
+  "dataset_split": "Chronological (Oct 1-24 Train / Oct 25-30 Test)",
+  "train_samples": 323800,
+  "test_samples": 97215,
+  "mae": 3.007,
+  "rmse": 5.093,
+  "r2_score": 0.75,
+  "baseline_mae": 2.713,
+  "baseline_rmse": 4.752,
+  "improvement_pct": -10.84,
+  "residual_std": 5.074,
+  "trained_at": "2026-11-22T00:55:36.849745",
+  "features": [
+    "hour",
+    "hour_sin",
+    "hour_cos",
+    "day_of_week",
+    "is_weekend",
+    "is_peak_hour",
+    "is_morning_peak",
+    "is_evening_peak",
+    "route_hist_mean",
+    "route_hist_std"
+  ]
+}
