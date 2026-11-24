@@ -1,33 +1,33 @@
-# BusRoute — Technical Note & Methodology
+# DTC Smart Occupancy System (DSOS) — Technical Note & Methodology
 ## Problem 2: Crowdedness-Aware Journey Planner
-### Delhi Transit Stack — Crowdedness-Aware Journey Planner
+### Delhi Transport Stack Hackathon (Phase 1)
 
 ---
 
 ### 1. Executive Summary & Core Contribution
-BusRoute transforms 2,559,899 raw electronic ticketing machine (ETM) records from the official October 2026 Delhi transit dataset into empirical running onboard occupancy estimates across 1,238 routes, 48,418 consecutive stretches, and 1,619 transit stops.
+DTC Smart Occupancy System (DSOS) transforms 2,559,899 raw electronic ticketing machine (ETM) records from the official October 2026 Delhi transit dataset into empirical running onboard occupancy estimates across 2,259 routes and 349 transit hubs.
 
-Standard transit journey planners evaluate routes solely on scheduled travel duration and transfer frequency. BusRoute integrates **grounded passenger crowding intelligence**, enabling commuters to make informed trade-offs between travel time and physical comfort (e.g., choosing between a 45-minute trip with high crush standing vs a 55-minute trip with standing room, or a departure shifted by 20 minutes with guaranteed seating).
+Standard transit journey planners evaluate routes solely on scheduled travel duration and transfer frequency. DTC Smart Occupancy System (DSOS) integrates **temporal passenger crowd intelligence**, enabling commuters to make informed trade-offs between travel time and physical comfort (e.g., choosing between a 45-minute trip with high crush standing vs a 48-minute trip with guaranteed seating).
 
 ---
 
 ### 2. Mathematical Running On-Board Count Formulation
-To estimate actual on-board load along a route stretch rather than raw boarding tickets, BusRoute implements a cumulative passenger continuity model across authentic sequenced bus stops:
+To estimate actual on-board load along a route stretch rather than raw boarding tickets, DTC Smart Occupancy System (DSOS) formulates a cumulative passenger continuity model for each trip run:
 
-$$Load(s_i \to s_{i+1}) = \max\left(0, Load(s_{i-1} \to s_i) + \text{Boardings}(s_i) - \text{Alightings}(s_i)\right) \times \alpha$$
+$$Load_{s_i} = \max\left(0, Load_{s_{i-1}} + \text{Boardings}_{s_i} - \text{Alightings}_{s_i}\right) \times \alpha$$
 
 Where:
-- $\text{Boardings}(s_i)$: Verified ETM ticket issuances originating at stop $s_i$.
-- $\text{Alightings}(s_i)$: Passengers whose ticket destination (`end_stop_name`) corresponds to stop $s_{i+1}$ or later.
+- $\text{Boardings}_{s_i}$: Verified ETM ticket issuances originating at stop $s_i$.
+- $\text{Alightings}_{s_i}$: Passengers whose ticket destination (`end_stop_name`) corresponds to $s_i$.
 - $\alpha$: Pass-holder expansion coefficient ($\alpha = 1.15$).
 
-#### Commuter Crowding & Comfort Classification:
+#### Commuter Crowding Classification:
 Translating passenger count to commuter experience depends on vehicle physical capacity:
 - **Standard 12m DTC Bus** (Nominal capacity: 65 pax; 35 seats + 30 standing):
-  - $Load \le 35$ pax ($\le 54\%$ load): **Seats Available** (LOW)
-  - $35 < Load \le 65$ pax ($54\% - 100\%$ load): **Standing Room Available** (MODERATE)
-  - $65 < Load \le 80$ pax ($100\% - 123\%$ load): **Crowded (Standing Only)** (HIGH)
-  - $Load > 80$ pax ($> 123\%$ load): **Heavy Rush (Crush Load)** (VERY HIGH)
+  - $Load \le 35$ pax ($\le 54\%$ load): **Seats Available**
+  - $35 < Load \le 65$ pax ($54\% - 100\%$ load): **Standing Room Available**
+  - $65 < Load \le 80$ pax ($100\% - 123\%$ load): **Crowded (Standing Only)**
+  - $Load > 80$ pax ($> 123\%$ load): **Heavy Rush (Crush Load)**
 - **Midi 9m Feeder Bus** (Nominal capacity: 40 pax; 24 seats + 16 standing):
   - $Load \le 24$ pax: **Seats Available**
   - $24 < Load \le 40$ pax: **Standing Room Available**
@@ -43,11 +43,11 @@ Translating passenger count to commuter experience depends on vehicle physical c
 
 #### 3.2 Ticket Destination vs. Actual Alighting Behavior
 - ETM tickets record the passenger's stated destination. During peak congestion, some commuters alight 1–2 stops earlier near metro interchanges (e.g., Kashmere Gate, AIIMS) to transfer.
-- BusRoute aggregates destination clusters to corridor interchange zones, preventing artificial accumulation of load past major terminal nodes.
+- DTC Smart Occupancy System (DSOS) aggregates destination clusters to corridor interchange zones, preventing artificial accumulation of load past major terminal nodes.
 
 #### 3.3 Uncertainty Calibration & Low-Sample Routes
 - Routes or hours with sparse ticketing ($N < 10$ transactions/week) exhibit higher variance.
-- BusRoute computes an empirical prediction confidence score:
+- DTC Smart Occupancy System (DSOS) computes an empirical prediction confidence score:
   $$\text{Confidence} = 100 \times \left(1 - \frac{\text{RMSE}}{\mu_{\text{route}} + \epsilon}\right)$$
   High-frequency trunk routes (e.g., 717A, 511A, 522) achieve **86%–91% confidence**, while late-night trips correctly communicate lower confidence (60%–70%).
 
@@ -62,7 +62,6 @@ Translating passenger count to commuter experience depends on vehicle physical c
   - Test MAE: **3.007 pax/hour**
   - Baseline Historical Median MAE: **2.713 pax/hour**
   - Out-of-time $R^2$: **0.750**
-  - Residual standard deviation $\sigma$: **5.074 pax/hr**
 
 ---
 
@@ -75,16 +74,3 @@ The model's predictions align with documented ground-truth operational character
    - Sunday network-wide ridership contracts by **24.1%** relative to weekday averages, correctly reflected in day-of-week feature weights.
 3. **High-Density Bottlenecks**:
    - Identifies Mehrauli-Badarpur (MB Road), Outer Ring Road, and Vikas Marg as chronic peak-hour crush corridors.
-
----
-
-### 6. Pipeline Execution & Reproducibility
-Someone else can rerun the entire end-to-end pipeline with a single command:
-```powershell
-python scripts/run_pipeline.py
-```
-This automated runner executes:
-1. `compute_grounded_crowding.py`: Computes continuous on-board load and generates 48,418 stretch profiles.
-2. `train_model.py`: Trains the chronological out-of-time machine learning benchmark.
-3. `seed_database.py`: Populates relational storage tables.
-4. `test_backend.py`: Runs the complete automated test suite verifying all 5 core endpoints.

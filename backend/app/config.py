@@ -2,7 +2,7 @@ import os
 from pydantic_settings import BaseSettings
 
 class Settings(BaseSettings):
-    PROJECT_NAME: str = "BusRoute"
+    PROJECT_NAME: str = "DTC Smart Occupancy System (DSOS)"
     API_V1_STR: str = "/api/v1"
     
     BASE_DIR: str = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))

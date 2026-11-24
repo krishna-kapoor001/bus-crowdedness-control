@@ -10,7 +10,7 @@
   "baseline_rmse": 4.752,
   "improvement_pct": -10.84,
   "residual_std": 5.074,
-  "trained_at": "2026-11-22T00:55:36.849745",
+  "trained_at": "2026-11-19T20:52:02.204291",
   "features": [
     "hour",
     "hour_sin",

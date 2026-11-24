@@ -20,9 +20,12 @@ export default function TopNav({ activePageTitle }) {
           <span>October 2026 ETM</span>
         </div>
 
-        <div className="w-7 h-7 rounded-lg bg-slate-100 border border-slate-200 flex items-center justify-center text-[11px] font-bold text-slate-900">
-          DT
-        </div>
+        <img
+          src="/favicon.png"
+          alt="DTC Smart Occupancy System"
+          className="w-8 h-8 rounded-lg border border-slate-200 object-contain shadow-2xs bg-white p-0.5"
+          title="DTC Smart Occupancy System"
+        />
       </div>
     </header>
   );

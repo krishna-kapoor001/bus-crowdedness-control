@@ -1,5 +1,6 @@
 import os
 import json
+import re
 from fastapi import APIRouter, Query, Response
 from fastapi.responses import JSONResponse
 from backend.app.config import settings
@@ -61,22 +62,32 @@ def plan_journey(req: JourneySearchRequest):
         origin=req.origin,
         destination=req.destination,
         departure_time=req.departure_time or "08:30",
-        prefer_less_crowded=req.prefer_less_crowded or False
+        prefer_less_crowded=req.prefer_less_crowded or False,
+        day_type=req.day_type or "weekday"
     )
 
 @router.get("/stops")
 def list_stops(query: str = Query(None)):
-    """Ultra-fast in-memory stop search with sub-millisecond response time."""
+    """Ultra-fast in-memory stop search across all 757 verified stops."""
     if not query:
         return JSONResponse(
-            content=CACHED_STOPS[:500],
-            headers={"Cache-Control": "no-cache, no-store, must-revalidate"}
+            content=CACHED_STOPS,
+            headers={"Cache-Control": "public, max-age=3600"}
         )
     q_low = query.strip().lower()
-    matches = [s for s in CACHED_STOPS if q_low in s['name'].lower()]
+    is_bus_stand_query = any(k in q_low for k in ['bus stand', 'stand', 'busstand', 'bus-stand', 'bus stands', 'terminal', 'terminals', 'hub', 'hubs'])
+    
+    matches = [
+        s for s in CACHED_STOPS 
+        if (is_bus_stand_query and s.get('is_major_hub')) or
+           q_low in s['name'].lower() or 
+           (s.get('corridor') and q_low in s['corridor'].lower())
+    ]
+    # Prioritize major bus stands at top of search results
+    matches.sort(key=lambda s: (not s.get('is_major_hub', False), -s.get('monthly_boardings', 0)))
     return JSONResponse(
-        content=matches[:50],
-        headers={"Cache-Control": "no-cache, no-store, must-revalidate"}
+        content=matches[:200],
+        headers={"Cache-Control": "public, max-age=3600"}
     )
 
 @router.get("/routes")

@@ -1,5 +1,5 @@
 """
-BusRoute — High-Concurrency Stress Test & Benchmark Harness
+DTC Smart Occupancy System (DSOS) — High-Concurrency Stress Test & Benchmark Harness
 Simulates thousands of concurrent user requests to verify sub-millisecond
 in-memory response times, zero-database-lock guarantees, and massive throughput.
 """
@@ -43,7 +43,7 @@ def test_single_endpoint(url, post_data=None, headers=None):
 
 def run_burst_benchmark(name, url, post_data=None, total_requests=500, concurrency=50):
     print(f"\n" + "=" * 70)
-    print(f"BENCHMARK: {name}")
+    print(f"🚀 BENCHMARK: {name}")
     print(f"   Target: {url}")
     print(f"   Total Requests: {total_requests:,} | Concurrency Level: {concurrency}")
     print("=" * 70)
@@ -80,7 +80,7 @@ def run_burst_benchmark(name, url, post_data=None, total_requests=500, concurren
     print(f"  ✓ Success Rate:        {successes}/{total_requests} ({(successes/total_requests)*100:.1f}%)")
     print(f"  ✓ Failures / Timeouts: {failures}")
     print(f"  ✓ Total Time:          {total_time:.2f} seconds")
-    print(f"  > Throughput (RPS):    {rps:,.1f} requests/second")
+    print(f"  ⚡ Throughput (RPS):    {rps:,.1f} requests/second")
     print(f"  ⏱ Latency Metrics:")
     print(f"      Min:  {min_lat:.2f} ms")
     print(f"      Avg:  {avg:.2f} ms")
@@ -100,7 +100,7 @@ def run_burst_benchmark(name, url, post_data=None, total_requests=500, concurren
 
 if __name__ == "__main__":
     print("=" * 70)
-    print("  BUSROUTE: 1 MILLION CONCURRENT USERS STRESS & LATENCY HARNESS")
+    print("  DTC SMART OCCUPANCY SYSTEM (DSOS): 1 MILLION CONCURRENT USERS STRESS & LATENCY HARNESS")
     print("  Verifying Zero-DB lock path, in-memory caches, and sub-ms latency")
     print("=" * 70)
 
@@ -150,7 +150,7 @@ if __name__ == "__main__":
     results.append(r4)
 
     print("\n" + "=" * 70)
-    print("FINAL BENCHMARK SUMMARY FOR 1M CONCURRENT USER READINESS")
+    print("🏆 FINAL BENCHMARK SUMMARY FOR 1M CONCURRENT USER READINESS")
     print("=" * 70)
     print(f"{'Endpoint':<45} | {'RPS':<10} | {'p50 (ms)':<10} | {'p99 (ms)':<10} | {'Success':<8}")
     print("-" * 92)

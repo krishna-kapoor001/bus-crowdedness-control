@@ -21,25 +21,27 @@ class DemandService:
         if self.cached_overview is not None:
             return self.cached_overview
 
-        total_routes = 864
-        total_stops = 349
+        total_routes = 2259
+        total_stops = 757
         db_routes = []
 
         if db is not None:
             try:
-                total_routes = db.query(func.count(Route.route_id)).scalar() or 864
-                total_stops = db.query(func.count(Stop.id)).scalar() or 349
+                total_routes = db.query(func.count(Route.route_id)).scalar() or 2259
+                total_stops = db.query(func.count(Stop.id)).scalar() or 757
                 db_routes = db.query(Route).order_by(Route.total_passengers.desc()).limit(10).all()
             except Exception:
                 pass
 
-        # If DB not available, fall back to route_profiles.json
+        # If DB not available, fall back to route_profiles.json & stop_profiles.json
         if not db_routes:
             routes_file = os.path.join(settings.PROCESSED_DATA_DIR, 'route_profiles.json')
             if os.path.exists(routes_file):
                 try:
-                    with open(routes_file, 'r') as f:
-                        raw_routes = json.load(f)[:10]
+                    with open(routes_file, 'r', encoding='utf-8') as f:
+                        all_profiles = json.load(f)
+                        total_routes = len(all_profiles)
+                        raw_routes = all_profiles[:10]
                         class DummyRoute:
                             def __init__(self, d):
                                 self.route_id = d.get('route_id')
@@ -51,6 +53,14 @@ class DemandService:
                         db_routes = [DummyRoute(r) for r in raw_routes]
                 except Exception:
                     pass
+
+        stops_file = os.path.join(settings.PROCESSED_DATA_DIR, 'stop_profiles.json')
+        if os.path.exists(stops_file):
+            try:
+                with open(stops_file, 'r', encoding='utf-8') as f:
+                    total_stops = len(json.load(f))
+            except Exception:
+                pass
 
         total_passengers = 2559897
         model_conf = 88.4

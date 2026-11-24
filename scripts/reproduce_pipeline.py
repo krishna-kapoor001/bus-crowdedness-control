@@ -1,8 +1,8 @@
 """
-BusRoute — Full Pipeline Reproduction & Evaluation Script
-Delhi Transit Stack — Crowdedness-Aware Journey Planner
+DTC Smart Occupancy System (DSOS) — Full Pipeline Reproduction & Evaluation Script
+Delhi Transport Stack Hackathon — Problem 2: Crowdedness-Aware Journey Planner
 
-This script allows evaluators to verify and reproduce the entire
+This script allows hackathon evaluators to verify and reproduce the entire
 data, ML, and API pipeline in a single command.
 """
 
@@ -13,8 +13,8 @@ import json
 import urllib.request
 
 print("=" * 80)
-print("  BusRoute: REPRODUCIBLE EVALUATION HARNESS")
-print("  Delhi Transit Stack — Crowdedness-Aware Journey Planner")
+print("  DTC Smart Occupancy System (DSOS): REPRODUCIBLE EVALUATION HARNESS")
+print("  Delhi Transport Stack Hackathon — Problem 2: Crowdedness-Aware Planner")
 print("=" * 80)
 
 # Deliverable 1: Dataset & Preprocessed Files Verification

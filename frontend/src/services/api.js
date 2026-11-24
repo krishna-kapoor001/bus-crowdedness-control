@@ -75,4 +75,3 @@ export async function fetchNetworkGeo() {
   const corridors = await corrRes.json();
   return { geojson, corridors };
 }
-

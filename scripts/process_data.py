@@ -6,12 +6,8 @@ import pandas as pd
 import numpy as np
 from datetime import datetime
 
+ZIP_PATH = r'C:\Users\Hp\Downloads\October-Delhi.csv.zip'
 DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data')
-RAW_CSV_PATH = os.path.join(DATA_DIR, 'Raw', 'October-Delhi.csv')
-if not os.path.exists(RAW_CSV_PATH):
-    RAW_CSV_PATH = os.path.join(DATA_DIR, 'October-Delhi.csv')
-
-ZIP_PATH = os.getenv('DELHI_ETM_ZIP_PATH', os.path.join(DATA_DIR, 'Raw', 'October-Delhi.csv.zip'))
 os.makedirs(DATA_DIR, exist_ok=True)
 
 # Curated high-precision coordinates for Delhi Transit hubs & key stops
@@ -110,19 +106,9 @@ route_pair_edges = {}
 chunk_size = 250000
 total_processed = 0
 
-def get_csv_chunks():
-    if os.path.exists(RAW_CSV_PATH):
-        print(f"Reading directly from CSV: {RAW_CSV_PATH}")
-        return pd.read_csv(RAW_CSV_PATH, chunksize=chunk_size, low_memory=False)
-    elif os.path.exists(ZIP_PATH):
-        print(f"Reading from zip: {ZIP_PATH}")
-        z = zipfile.ZipFile(ZIP_PATH)
-        f = z.open('October-Delhi.csv')
-        return pd.read_csv(f, chunksize=chunk_size, low_memory=False)
-    else:
-        raise FileNotFoundError(f"Neither {RAW_CSV_PATH} nor {ZIP_PATH} found.")
-
-for chunk in get_csv_chunks():
+with zipfile.ZipFile(ZIP_PATH) as z:
+    with z.open('October-Delhi.csv') as f:
+        for chunk in pd.read_csv(f, chunksize=chunk_size, low_memory=False):
             # Fill NAs
             chunk['route'] = chunk['route'].fillna('UNKNOWN').astype(str).str.strip()
             chunk['start_stop_name'] = chunk['start_stop_name'].fillna('UNKNOWN').astype(str).str.strip()

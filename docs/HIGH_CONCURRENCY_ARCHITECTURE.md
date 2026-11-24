@@ -1,5 +1,5 @@
-# BusRoute — High-Concurrency Architecture (1 Million Concurrent Users)
-## Delhi Transit Stack — Scalability & Performance Blueprint
+# DTC Smart Occupancy System (DSOS) — High-Concurrency Architecture (1 Million Concurrent Users)
+## Delhi Transport Stack Hackathon — Scalability & Performance Blueprint
 
 ---
 
@@ -10,7 +10,7 @@ In large-scale transit platforms (similar to IRCTC, Delhi Metro Rail app, or Ube
 - Peak Traffic Factor: $\text{RPS} = \frac{1,000,000 \text{ users}}{20 \text{ seconds}} \approx \mathbf{50,000 \text{ Requests Per Second (RPS)}}$.
 - Burst Rush-Hour Multiplier (08:30 AM & 18:00 PM): up to **75,000 RPS**.
 
-A standard monolithic Python backend with SQLite/disk queries bottlenecks at ~200 RPS and deadlocks under concurrent file writes. **BusRoute eliminates all disk/DB bottlenecks through a 4-Tier Zero-I/O Architecture**:
+A standard monolithic Python backend with SQLite/disk queries bottlenecks at ~200 RPS and deadlocks under concurrent file writes. **DTC Smart Occupancy System (DSOS) eliminates all disk/DB bottlenecks through a 4-Tier Zero-I/O Architecture**:
 
 ```
 [1,000,000 Commuters / Web & Mobile Apps]
@@ -104,7 +104,7 @@ Run via `python scripts/benchmark_concurrency.py`:
 
 ```
 ======================================================================
-LIVE BENCHMARK SUMMARY (1M CONCURRENT USER VERIFICATION)
+🏆 LIVE BENCHMARK SUMMARY (1M CONCURRENT USER VERIFICATION)
 ======================================================================
 Endpoint                                      | RPS        | p50 (ms)   | p99 (ms)   | Success 
 --------------------------------------------------------------------------------------------

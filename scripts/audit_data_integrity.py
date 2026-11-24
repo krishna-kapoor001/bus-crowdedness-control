@@ -5,7 +5,7 @@ import pandas as pd
 
 def audit():
     print("=" * 60)
-    print("BUSROUTE DATA INTEGRITY & QUALITY AUDIT")
+    print("DTC SMART OCCUPANCY SYSTEM (DSOS) DATA INTEGRITY & QUALITY AUDIT")
     print("=" * 60)
 
     # 1. Stops Audit

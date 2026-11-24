@@ -1,0 +1,11 @@
+{
+  "name": "transport-delhi",
+  "version": "1.0.0",
+  "description": "Crowdedness-Aware Journey Planner for Delhi Transport",
+  "scripts": {
+    "dev": "python run.py",
+    "start": "python run.py",
+    "frontend": "npm run dev --prefix frontend",
+    "build": "npm run build --prefix frontend"
+  }
+}

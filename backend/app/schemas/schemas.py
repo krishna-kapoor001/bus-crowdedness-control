@@ -56,6 +56,7 @@ class JourneySearchRequest(BaseModel):
     destination: str
     departure_date: Optional[str] = "2026-10-28"
     departure_time: Optional[str] = "08:30"
+    day_type: Optional[str] = "weekday" # "weekday" | "saturday" | "sunday"
     prefer_less_crowded: Optional[bool] = False
 
 class JourneyStep(BaseModel):
@@ -75,6 +76,7 @@ class JourneyAlternative(BaseModel):
     id: str
     badge: str # 'FASTEST', 'LEAST CROWDED', 'FEWEST TRANSFERS', 'RECOMMENDED', 'SEATS AVAILABLE'
     total_duration_mins: int
+    distance_km: Optional[float] = None
     crowd_level: str
     crowd_score: int
     comfort_label: Optional[str] = "Standing Room"
@@ -95,6 +97,24 @@ class JourneyAlternative(BaseModel):
     time_saved_mins: Optional[int] = 0
     intermediate_stops: Optional[List[str]] = None
     skipped_stops: Optional[List[str]] = None
+    arrival_time_label: Optional[str] = None
+    bus_fleet_type: Optional[str] = "DTC AC Electric"
+    seating_capacity: Optional[int] = 35
+    standing_capacity: Optional[int] = 30
+    total_capacity: Optional[int] = 65
+    operating_hours: Optional[str] = "06:00 AM – 10:30 PM"
+    first_bus_time: Optional[str] = "06:00 AM"
+    last_bus_time: Optional[str] = "10:30 PM"
+    no_service_after: Optional[str] = "10:30 PM"
+    frequency_text: Optional[str] = "Every 8–12 mins"
+    is_operating_at_search_time: Optional[bool] = True
+    service_status: Optional[str] = "ACTIVE"
+    service_status_label: Optional[str] = "Active Service"
+    service_note: Optional[str] = None
+    next_departure_time: Optional[str] = None
+    fare_regular: Optional[str] = "₹15"
+    fare_pink_pass: Optional[str] = "Free (₹0.00)"
+    timeline_stops: Optional[List[Dict[str, Any]]] = None
 
 class JourneySearchResponse(BaseModel):
     origin: str
@@ -102,6 +122,8 @@ class JourneySearchResponse(BaseModel):
     departure_time: str
     prefer_less_crowded: bool
     alternatives: List[JourneyAlternative]
+    service_alert: Optional[str] = None
+    corridor_rush: Optional[Dict[str, Any]] = None
 
 # --- Analytics Schemas ---
 class HourlyDistributionItem(BaseModel):

@@ -1,4 +1,4 @@
-# BusRoute — Enterprise Production Gunicorn / Uvicorn Configuration
+# DTC Smart Occupancy System (DSOS) — Enterprise Production Gunicorn / Uvicorn Configuration
 # Designed for high-concurrency deployments (1M+ concurrent users)
 
 import multiprocessing
